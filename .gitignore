@@ -1,2 +1,4 @@
 comet_config
 models/*.pth
+*__pycache__/*
+*.out
