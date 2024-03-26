@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, furry animal, possibly a rabbit or a fox, walking across a rocky area. The animal is in the middle of the scene, surrounded by rocks and dirt. The animal appears to be looking down, possibly searching for food or exploring its surroundings. The rocks are scattered throughout the scene, with some larger ones closer to the animal and others smaller ones further away. The overall atmosphere of the image is that of a wild, natural setting.
+USER: exit...

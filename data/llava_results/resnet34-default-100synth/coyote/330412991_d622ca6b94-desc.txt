@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a coyote resting on a wooden plank or log, possibly a fallen tree branch. The coyote appears to be relaxed and comfortable in its position. The log is situated in a forest setting, with trees surrounding the area. The coyote's head is turned to the side, and its eyes are open, giving it a curious look. The scene captures the coyote's natural habitat and its peaceful resting moment.
+USER: exit...

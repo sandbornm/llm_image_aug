@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, white, and red building with a distinctive rounded shape. The building is situated on a street corner, and a parking lot is visible in the background. There are several cars parked in the lot, with one car on the left side of the building and two others on the right side.
+
+In front of the building, there is a small group of people standing and possibly waiting to enter the building or just passing by. One person is standing closer to the left side of the building, while the other two are positioned more towards the center.
+USER: exit...

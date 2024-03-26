@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman wearing a graduation cap and gown, standing in front of a mirror. She is looking at her reflection, possibly admiring her outfit or preparing for a special occasion. The woman is wearing a necklace, adding a touch of elegance to her attire.
+
+The scene takes place in a room with a door visible in the background, and a clock on the wall. The woman is standing close to the mirror, which occupies a significant portion of the image.
+USER: exit...

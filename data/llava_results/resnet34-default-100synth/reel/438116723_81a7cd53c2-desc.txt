@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dead fish lying on a rock, with its mouth open and a red lure sticking out of it. The fish appears to have been caught by a fisherman using a fishing rod. The fishing rod is visible in the scene, extending from the top left corner towards the center of the image. The fish is positioned towards the left side of the image, with the rock it is lying on occupying the majority of the scene.
+USER: exit...

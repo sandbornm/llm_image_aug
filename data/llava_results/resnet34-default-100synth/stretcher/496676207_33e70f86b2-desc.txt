@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of men wearing uniforms, walking together in a line. They are carrying a stretcher, possibly carrying a wounded person. The men appear to be soldiers, as they are dressed in military uniforms.
+
+The scene takes place outside, with a car visible in the background. The men are walking in a straight line, with some of them closer to the foreground and others further back. The presence of the stretcher suggests that they are on a mission or returning from one.
+USER: exit...

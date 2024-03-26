@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, blue dog with a panting tongue, standing in front of a forest. The dog is looking at the camera, capturing the viewer's attention. The dog's tongue is hanging out, indicating that it might be hot outside or the dog is excited. The forest in the background provides a natural and serene setting for the scene.
+USER: exit...

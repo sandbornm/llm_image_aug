@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman sitting on a bed, surrounded by a group of brown puppies. She is holding one of the puppies in her arms, while the other puppies are lying on the bed, close to her. The puppies are of various sizes, and they appear to be enjoying their time together.
+
+In addition to the puppies, there are two teddy bears in the scene, one located near the left side of the bed and the other on the right side. A chair can also be seen in the background, close to the right edge of the image.
+USER: exit...

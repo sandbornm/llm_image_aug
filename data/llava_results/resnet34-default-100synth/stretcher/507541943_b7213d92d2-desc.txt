@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image shows a person lying on a bed with a neck brace on, likely recovering from an injury. The person is wearing a blue shirt, and the bed occupies most of the scene. 
+
+In the room, there are several other people present, some standing and others sitting. A chair can be seen in the background, and a clock is mounted on the wall. The presence of multiple people in the room suggests that the person with the neck brace might be receiving support and care from friends or family members.
+USER: exit...

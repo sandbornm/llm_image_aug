@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a man lying on a stretcher, possibly unconscious or injured, being attended to by two people. One person is standing close to the stretcher, while the other is positioned further away. The stretcher is placed on a street, and there are several cars parked nearby.
+
+A fire hydrant can be seen in the background, and a traffic light is also visible in the scene. The presence of the fire hydrant and traffic light suggests that the scene takes place in an urban environment.
+USER: exit...

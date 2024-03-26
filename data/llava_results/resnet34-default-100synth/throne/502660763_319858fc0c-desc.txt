@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, fancy, and ornate chair with a leopard print pattern. The chair is placed in a room with a workbench nearby, possibly in a workshop or a crafting area. The chair is the main focus of the scene, occupying a significant portion of the image.
+USER: exit...

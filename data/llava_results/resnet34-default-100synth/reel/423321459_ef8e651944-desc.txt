@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a fishing lure with a fly fishing reel and a fishing rod sitting on a rock. The reel is positioned in the center of the scene, while the rod is placed to the right side of the reel. A bird feather is also present in the scene, located near the right side of the reel. The feather appears to be a part of the fishing lure, adding a unique touch to the overall composition.
+USER: exit...

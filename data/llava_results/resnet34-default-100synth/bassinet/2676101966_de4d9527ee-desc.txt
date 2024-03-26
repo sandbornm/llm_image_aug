@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden baby crib with a white canopy, placed outdoors in a yard. The crib is surrounded by a blanket, giving it a cozy appearance. The crib is positioned near a house, possibly in the backyard.
+
+In the scene, there are also a few potted plants, one located near the left side of the crib and another towards the right side. Additionally, a chair can be seen in the background, further to the right.
+USER: exit...

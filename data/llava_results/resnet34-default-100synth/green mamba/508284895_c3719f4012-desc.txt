@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green and yellow snake, possibly a boa constrictor, resting on a tree branch. The snake is curled up and appears to be hiding in the tree. The branch is located in the middle of the scene, with the snake occupying a significant portion of the image.
+USER: exit...

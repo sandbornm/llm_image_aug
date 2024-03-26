@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown bird perched on a metal fence in a residential area. The bird is standing on the fence, possibly observing its surroundings or looking for food.
+
+In the background, there is a car parked on the street, and a truck can be seen further down the road. A stop sign is also visible in the scene, indicating the presence of an intersection or a controlled traffic area.
+USER: exit...

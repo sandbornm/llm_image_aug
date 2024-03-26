@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image shows a person standing in a bedroom, holding a vacuum cleaner and cleaning the floor. The person is positioned near the center of the room, with the vacuum cleaner in their hand. The bedroom features a bed located towards the right side of the room, and a couch is situated in the background.
+
+There are a few other items in the room, such as a cup placed on a surface towards the left side, and a remote control resting on a surface closer to the center. Additionally, there is a chair located near the couch, and a clock hanging on the wall above the bed.
+USER: exit...

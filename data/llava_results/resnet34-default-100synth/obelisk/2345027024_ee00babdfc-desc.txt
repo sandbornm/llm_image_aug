@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a tall, white obelisk monument standing in the middle of a city, surrounded by tall buildings. The monument is located near a busy street, with cars driving by and people walking around. 
+
+There are several people in the scene, some of them standing near the monument, while others are walking or standing further away. A couple of cars can be seen on the street, one closer to the left side of the image and another one further back. The overall atmosphere suggests a bustling urban environment with the monument serving as a focal point.
+USER: exit...

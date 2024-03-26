@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a metal bowl filled with a variety of seafood, including several crabs and lobsters. The crabs are placed in different positions within the bowl, with some sitting on top of each other and others scattered around. The lobsters are also present in the bowl, adding to the diverse mix of seafood. The bowl is placed on a counter, ready to be served or prepared for a meal.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man and a woman sitting together at a dining table, enjoying a meal. The table is set with various items, including multiple cups, bowls, and a bottle. There are also several chairs around the table, with one being occupied by the man and the woman, and others unoccupied.
+
+In addition to the main couple, there are two other people in the scene, one standing near the left side of the table and the other person on the right side. The dining table is surrounded by chairs, and the overall atmosphere appears to be a cozy and intimate gathering.
+USER: exit...

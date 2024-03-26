@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a dilapidated building with a large, sloping roof that appears to be falling apart. The building is surrounded by a forest, with trees visible in the background. The roof of the building is covered in shingles, and the overall structure appears to be in a state of disrepair.
+
+In addition to the main building, there are two smaller buildings in the scene, one located to the left and the other to the right. The presence of the trees and the buildings creates a sense of a forest setting.
+USER: exit...

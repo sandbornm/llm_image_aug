@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green snake lying on a dirt surface, partially submerged in water. The snake appears to be resting or possibly preparing to strike. The water is visible in the foreground, with the snake's body stretching across the scene. The snake's head is visible, and its body is curled up, giving it a coiled appearance.
+USER: exit...

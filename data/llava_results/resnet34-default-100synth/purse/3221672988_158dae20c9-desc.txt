@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a blue leather purse placed on a white background. The purse is open, revealing its interior. The purse is positioned in the center of the scene, occupying a significant portion of the image. The background is predominantly white, which creates a clean and minimalistic appearance.
+USER: exit...

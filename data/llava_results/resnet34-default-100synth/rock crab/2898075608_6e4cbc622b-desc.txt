@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large metal bowl filled with a variety of crabs, including both brown and red crabs. The crabs are arranged in different positions, with some sitting on top of each other and others scattered throughout the bowl. The bowl is placed on a dining table, making it an eye-catching centerpiece. The crabs are likely being prepared for a meal or are being displayed for sale.
+USER: exit...

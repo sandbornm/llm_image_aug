@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a small crab in their hand, with the crab being the main focus of the scene. The person's hand is positioned above the crab, and the crab is captured in a close-up view. The person's hand is visible in the foreground, and the crab is located in the middle of the scene. The overall atmosphere of the image is that of a close encounter with a small marine creature.
+USER: exit...

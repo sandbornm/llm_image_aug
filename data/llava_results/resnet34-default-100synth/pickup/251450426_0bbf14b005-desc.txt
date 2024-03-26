@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a vintage red truck parked on the side of the road, likely in a driveway. The truck is the main focus of the scene, occupying a significant portion of the image. 
+
+In the background, there are several cars parked or driving by, with one car located on the left side of the truck, another on the right side, and a third car further back on the right side. Additionally, there are two people visible in the scene, one near the middle of the image and the other closer to the right side.
+USER: exit...

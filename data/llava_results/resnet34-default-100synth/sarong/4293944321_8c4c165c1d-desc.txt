@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person lying on the ground, covered by a yellow blanket or sheet. The person appears to be partially hidden by the blanket, giving the impression of being wrapped up or hidden. The blanket is spread across the ground, covering a significant portion of the scene. The person's head is visible, peeking out from under the blanket, adding a sense of curiosity to the scene.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black graduation cap sitting on a white bedspread. The cap is placed in the center of the bed, with its tassel hanging downwards. The bedspread is neatly made, creating a clean and organized appearance. The focus of the scene is the graduation cap, symbolizing the achievement of the graduate.
+USER: exit...

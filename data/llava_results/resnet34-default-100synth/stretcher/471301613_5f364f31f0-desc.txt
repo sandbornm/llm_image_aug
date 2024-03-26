@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of people gathered on a soccer field, with some of them standing and others sitting. A soccer ball is located in the middle of the scene, and a bench can be seen nearby. There are several people in the foreground, while others are scattered throughout the field.
+
+In the background, there are two people standing close to each other, and a few more individuals are visible in the distance. The scene suggests a casual gathering of people enjoying a day outdoors, possibly watching a soccer game or simply socializing.
+USER: exit...

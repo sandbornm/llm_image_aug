@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red and green guitar pick, which is placed on a white surface. The guitar pick is made by the company Tower, as indicated by the brand name on it. The pick is positioned in the center of the scene, with the red and green colors contrasting against the white background.
+USER: exit...

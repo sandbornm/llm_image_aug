@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a American lobster could be mistaken for a rotisserie.
+USER: ASSISTANT: The image of the American lobster could be mistaken for a rotisserie because it is presented in a similar manner. The lobster is placed in a glass bowl, which is a common way to serve and display food items like rotisserie chicken. The lobster is also accompanied by a knife, which is a typical utensil used for cutting and serving food. The close-up view of the lobster and the glass bowl further emphasizes the similarities between the lobster and a rotisserie, making it easy to confuse the two.
+USER: exit...

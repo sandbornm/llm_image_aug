@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features an outdoor cooking area with a large grill filled with meat, likely pork, being cooked. The grill is situated on a table, and there are several chairs surrounding it. The meat is being cooked on a spit, and the grill is surrounded by a few other smaller grills.
+
+In the background, there are two people standing, possibly observing the cooking process or waiting for their meal. Additionally, there are two bottles placed near the grill, possibly containing condiments or beverages for the meal.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small spider, likely a jumping spider, sitting on a rock. The spider is positioned in the center of the rock, with its legs spread out. It appears to be looking at the camera, possibly capturing the viewer's attention. The rock is a prominent feature in the scene, providing a natural backdrop for the spider.
+USER: exit...

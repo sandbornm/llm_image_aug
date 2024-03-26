@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up view of a crab walking on a muddy surface. The crab is positioned in the center of the scene, with its legs spread out to maintain balance on the uneven ground. The crab's claws are visible, adding to the realistic appearance of the scene. The image captures the crab's movement and the muddy environment it is traversing.
+USER: exit...

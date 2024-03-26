@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a yellow car with a unique design on its back, possibly a cartoon or a comic strip. The car is parked on a street, and there are several people around it, with some standing closer to the car and others further away.
+
+In the background, there are two other cars visible, one on the left side of the image and another on the right side. Additionally, there is a person standing near the left edge of the image, possibly observing the yellow car or waiting to cross the street.
+USER: exit...

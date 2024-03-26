@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a mannequin wearing a gas mask and a red coat, standing next to another mannequin dressed in a suit. The mannequins are positioned in a room, possibly a museum or a store, showcasing different styles of clothing.
+
+In the scene, there are also two handbags, one placed near the left mannequin and the other near the right mannequin. Additionally, there is a book located on the left side of the room, possibly a reference material for the mannequins' outfits.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, white pickup truck parked on a street. The truck is prominently displayed in the foreground, occupying a significant portion of the scene. The truck is positioned in front of a fence, giving the impression of being parked in a residential area.
+
+There are two people visible in the scene, one standing closer to the left side of the truck and the other person standing further to the right. The presence of these individuals suggests that they might be the owners of the truck or passersby in the area.
+USER: exit...

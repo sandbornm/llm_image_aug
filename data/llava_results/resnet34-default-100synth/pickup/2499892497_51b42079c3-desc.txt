@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red pickup truck parked on the side of a street, surrounded by several other cars. The red truck is prominently displayed in the foreground, while other cars can be seen in the background, including a green car parked behind the red truck.
+
+There are several people in the scene, with one person standing near the red truck, another person standing further back, and two more people closer to the green car. A handbag is also visible on the ground near the people. The overall atmosphere suggests a casual gathering or event taking place on the street.
+USER: exit...

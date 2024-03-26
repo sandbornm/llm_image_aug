@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two young boys playing with a vacuum cleaner in a living room. One boy is standing on a rug, holding the vacuum, while the other boy is standing next to him, also holding the vacuum. They seem to be enjoying their time together, possibly learning how to use the vacuum or just having fun.
+
+The living room has a dining table in the background, and a chair is placed near the table. The scene is lively and filled with energy as the two boys engage in their playtime.
+USER: exit...

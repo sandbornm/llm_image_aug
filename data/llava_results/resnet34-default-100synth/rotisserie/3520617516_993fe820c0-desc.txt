@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man standing in front of a grill, preparing a large pork roast. He is wearing a blue shirt and appears to be smiling as he cooks the meat. The grill is located in a backyard, and the man is positioned near the center of the scene.
+
+There are several bowls placed around the area, with one near the left edge of the image, another in the middle, and the third one on the right side. A cell phone can be seen resting on a surface, possibly used for recipes or communication during the cooking process.
+USER: exit...

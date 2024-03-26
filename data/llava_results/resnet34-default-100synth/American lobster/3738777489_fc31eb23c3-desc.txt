@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dining table with a white tray containing a delicious meal. On the tray, there is a lobster tail and a bowl of coleslaw, creating a delightful seafood and vegetable combination. A hot dog is also present on the tray, adding variety to the meal.
+
+A fork can be seen on the table, likely used for enjoying the lobster tail and coleslaw. The table setting is complete with a cup placed near the edge of the table. The overall scene suggests a satisfying and appetizing meal experience.
+USER: exit...

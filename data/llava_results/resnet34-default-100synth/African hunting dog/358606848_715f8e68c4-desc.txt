@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a pair of zebras standing in a muddy watering hole, surrounded by tall grass. One zebra is positioned closer to the left side of the scene, while the other is located more towards the right. They appear to be drinking water from the pond, which is a natural habitat for them. The scene captures the beauty of these animals in their natural environment.
+USER: exit...

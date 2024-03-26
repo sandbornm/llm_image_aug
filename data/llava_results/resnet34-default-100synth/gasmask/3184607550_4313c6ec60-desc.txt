@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman wearing a gas mask and a hard hat, standing in a room. She appears to be in a construction or industrial setting, possibly working on a project or participating in a training exercise. 
+
+In the background, there is another person partially visible, possibly a co-worker or an instructor. The room also contains a chair and a dining table, suggesting that it could be a break area or a shared space for the workers. There are two bottles placed in the room, possibly containing cleaning supplies or other materials needed for the project.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman wearing a camera around her neck, taking a picture of herself. She is holding a camera in her hands, capturing the moment. The woman is standing in a room with a dining table visible in the background.
+
+There are several cups placed around the room, with one near the woman, another on the dining table, and a few more scattered around the room. Additionally, there is a chair located near the dining table.
+USER: exit...

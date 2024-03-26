@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image shows a group of firefighters working together to help a person who is lying on the ground. One firefighter is attending to the person, while the others are standing around, providing assistance and support. The scene appears to be taking place at night, as the firefighters are wearing their yellow uniforms.
+
+There are a few other people in the scene, but they are not the main focus of the image. The main focus is on the firefighters and the person they are helping.
+USER: exit...

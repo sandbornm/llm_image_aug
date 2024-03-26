@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a grooming station where a woman is grooming a white dog. The dog is standing on a table, and the woman is attending to it with a pair of scissors. The scene also includes several other people in the background, possibly observing or waiting for their turn to groom their pets.
+
+In addition to the dog and the woman, there are multiple bottles scattered around the grooming area, possibly containing grooming products or cleaning supplies. A chair is also visible in the scene, likely for the groomer to sit on while working on the dog.
+USER: exit...

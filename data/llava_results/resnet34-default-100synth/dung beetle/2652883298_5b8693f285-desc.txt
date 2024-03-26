@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a large black beetle on a patch of dirt. The beetle is sitting on the ground, surrounded by dry grass. The beetle appears to be a large, dark-colored insect, possibly a cockroach, with its legs spread out. The scene is set in a field, giving the impression of a natural environment.
+USER: exit...

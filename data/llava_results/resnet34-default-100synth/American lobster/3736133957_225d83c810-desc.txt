@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden table with a blue lobster lying on top of it. The lobster is positioned in the center of the table, occupying a significant portion of the surface. The table appears to be a dining table, and the lobster is the main focus of the scene.
+USER: exit...

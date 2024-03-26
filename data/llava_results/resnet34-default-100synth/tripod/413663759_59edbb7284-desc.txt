@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a camera, capturing a photo of themselves in the mirror. The person is standing in front of a wooden desk, which is placed in a room. The room appears to be a living space, as there is a chair positioned near the desk.
+
+In addition to the person and the wooden desk, there are two TVs in the room. One TV is located near the left side of the room, while the other is positioned more towards the center. The presence of these TVs suggests that the room could be used for various activities, such as watching movies, playing video games, or simply enjoying some leisure time.
+USER: exit...

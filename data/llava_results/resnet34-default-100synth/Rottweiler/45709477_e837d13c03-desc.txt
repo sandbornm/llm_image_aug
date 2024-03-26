@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dog agility course with several people and dogs participating in the event. A black dog is running through the course, with a person accompanying it, likely guiding or training the dog. Other people are scattered around the course, either watching the dog or waiting for their turn to run with their dogs.
+
+There are multiple dogs in the scene, with some dogs being closer to the foreground and others further in the background. A few cars can be seen in the background, possibly belonging to the participants or spectators of the event.
+USER: exit...

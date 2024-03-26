@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small green lizard perched on a tree branch. The lizard is positioned near the center of the scene, with its body occupying a significant portion of the branch. The tree branch appears to be a part of a larger tree, providing a natural habitat for the lizard.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person with a nose piercing, wearing a nose ring, and a tongue piercing. The person is looking down at the camera, and a small pin is visible in their mouth. The individual has long hair, and the scene appears to be indoors, possibly in a room or a bathroom. The person is also wearing a necklace, adding to the overall aesthetic of the image.
+USER: exit...

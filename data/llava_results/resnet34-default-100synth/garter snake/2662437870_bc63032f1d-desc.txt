@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, long, and colorful snake coiled up on a wooden surface, possibly a table or a bench. The snake is positioned in the center of the scene, occupying a significant portion of the wooden surface. The snake's striking appearance, with its yellow and black stripes, makes it the main focus of the image.
+USER: exit...

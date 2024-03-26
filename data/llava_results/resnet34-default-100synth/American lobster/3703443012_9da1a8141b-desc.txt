@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a delicious meal consisting of a hearty bowl of seafood, including a variety of crabs and lobster pieces. The crabs are spread throughout the bowl, with some placed closer to the center and others near the edges. The lobster pieces are also mixed in with the crabs, adding to the overall seafood experience.
+
+The dish is served in a glass bowl, and a spoon is placed nearby, ready for use. The presentation of the meal is appetizing, with the seafood pieces arranged in a visually appealing manner.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a baby lying in a crib, which is placed in a living room. The crib is surrounded by a blanket, creating a cozy and comfortable environment for the baby. The baby is sleeping peacefully, and the crib is positioned near a window, allowing natural light to enter the room.
+
+In the room, there is a chair situated close to the crib, and a TV can be seen in the background. The living room is furnished with a dining table and a couple of chairs, making it a functional space for the family.
+USER: exit...

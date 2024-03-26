@@ -1,0 +1,7 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of people attending to a person lying on the ground, possibly in a parking lot or a street. The person is lying on a stretcher, and the group of people, including paramedics, are working together to provide assistance.
+
+There are several people in the scene, with some standing close to the person on the stretcher, while others are positioned around the area. A couple of bottles can be seen on the ground, possibly containing medical supplies or water.
+
+In the background, there is a car parked, and a truck is visible further in the scene. The overall atmosphere suggests a busy and active scene where people are working together to help the person in need.
+USER: exit...

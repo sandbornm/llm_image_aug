@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a bird perched on a wooden post, attentively looking at a nest filled with eggs. The bird is positioned near the center of the scene, with the nest located slightly to the right and below it. The eggs in the nest are scattered around, with some closer to the bird and others further away. The scene captures the bird's curiosity and interest in the nest and its contents.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a monkey sitting on a wooden fence, looking over the top of the fence. The monkey is positioned in the center of the scene, and it appears to be curiously observing its surroundings. The fence is made of wood and is located in an enclosure, possibly a zoo or a wildlife sanctuary.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a lone coyote standing in a grassy field, possibly a park or a meadow. The coyote is looking to the left, possibly observing its surroundings or searching for prey. The field is spacious and appears to be a suitable habitat for the coyote.
+USER: exit...

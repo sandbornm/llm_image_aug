@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, skinny fox standing in a grassy field. The fox is walking through the grass, possibly in search of food or exploring its surroundings. The field is lush and green, providing a natural habitat for the fox.
+USER: exit...

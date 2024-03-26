@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a tree filled with green leaves, where a black and white monkey is sitting on a branch. The monkey is positioned towards the left side of the tree, surrounded by the lush foliage. Another monkey can be seen further back in the tree, closer to the right side. The scene captures the beauty of the monkeys in their natural habitat.
+USER: exit...

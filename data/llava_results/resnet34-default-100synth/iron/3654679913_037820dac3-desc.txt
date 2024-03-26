@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a woman standing in a room, surrounded by numerous clothes hanging on a rack. She is wearing a black dress and appears to be organizing the clothes in the room. The room is filled with various clothing items, including shirts and dresses, which are neatly arranged on the rack.
+
+In addition to the woman, there are two other people in the room, one standing near the left edge of the image and another person closer to the right side. The room also features a bench located near the center of the image, and a handbag can be seen placed on the floor.
+USER: exit...

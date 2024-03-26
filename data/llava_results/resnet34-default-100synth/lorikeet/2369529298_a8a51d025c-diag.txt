@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a lorikeet could be mistaken for a rock crab.
+USER: ASSISTANT: The image of the lorikeet could be mistaken for a rock crab due to its colorful appearance and the way it is perched on a tree branch. The lorikeet has a vibrant and colorful plumage, which resembles the appearance of a rock crab. Additionally, the lorikeet is also perched on a tree branch, which is a common behavior for both lorikeets and rock crabs. The similarities in their appearance and behavior could lead to confusion between the two species.
+USER: exit...

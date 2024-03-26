@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown and white rabbit standing in a grassy area with a few bushes nearby. The rabbit is positioned in the middle of the scene, surrounded by a lush green field. The grass appears to be well-maintained and provides a comfortable environment for the rabbit.
+USER: exit...

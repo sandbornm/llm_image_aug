@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a blue vacuum cleaner with a unique design on its side. The vacuum cleaner is sitting on a carpeted floor, possibly in a living room. The carpet is brown and covers the entire floor, creating a cozy atmosphere.
+
+In the background, there is a dresser with a drawer open, possibly containing some items. Additionally, there are two people in the scene, one standing near the left side of the image and another person located towards the right side. A chair can also be seen in the background, placed near the right side of the image.
+USER: exit...

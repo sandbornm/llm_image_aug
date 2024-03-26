@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a young girl sitting in a room, holding a cell phone up to her face. She appears to be engaged in a conversation or using an app on her phone. The room has a cozy atmosphere with several vases placed around the space. Some vases are located near the girl, while others are scattered throughout the room. Additionally, there are two bowls in the room, one near the center and the other towards the right side.
+USER: exit...

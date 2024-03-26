@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown rabbit running across a dry grass field. The rabbit appears to be in motion, possibly running to escape from a potential threat or simply exploring its surroundings. The field is covered with dry grass, and the rabbit is the main focus of the scene.
+USER: exit...

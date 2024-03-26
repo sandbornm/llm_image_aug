@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a poster with a cartoon drawing of a morgue stretcher, which is a type of medical equipment used for transporting deceased individuals. The stretcher is depicted as being in a hospital setting, with a green background. The cartoon drawing is placed on a white wall, likely in a hospital or medical facility. The poster serves as a reminder of the importance of proper handling and transportation of deceased individuals in such settings.
+USER: exit...

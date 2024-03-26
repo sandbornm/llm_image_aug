@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a snake curled up on the ground, surrounded by dry leaves and twigs. The snake is positioned in the center of the scene, with its body coiled up and resting on the ground. The leaves and twigs are scattered around the snake, creating a natural and serene environment.
+USER: exit...

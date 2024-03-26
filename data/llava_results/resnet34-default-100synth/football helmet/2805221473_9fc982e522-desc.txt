@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a blue football helmet sitting on a countertop, surrounded by a few towels. The helmet is positioned towards the center of the counter, and the towels are spread out around it. 
+
+In addition to the helmet and towels, there are two bottles on the counter, one located towards the left side and the other towards the right side. A cup can also be seen on the counter, placed closer to the left side. The scene appears to be a sports-related setting, possibly a locker room or a sports equipment storage area.
+USER: exit...

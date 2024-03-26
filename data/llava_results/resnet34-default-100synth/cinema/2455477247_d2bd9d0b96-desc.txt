@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image showcases a movie theater at night, with a large sign prominently displaying the name "Jupiter 18 Cinemas." The theater is illuminated by neon lights, creating a vibrant and inviting atmosphere. 
+
+There are several people in the scene, some of them standing near the entrance of the theater, while others are scattered throughout the area. A handbag can be seen placed on the ground, possibly belonging to one of the visitors. The overall scene conveys a lively and bustling environment, typical of a popular movie theater.
+USER: exit...

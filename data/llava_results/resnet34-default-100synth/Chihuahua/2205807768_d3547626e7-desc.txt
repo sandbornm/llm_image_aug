@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small white dog with big, sad eyes, sitting on a couch. The dog appears to be looking at the camera, possibly seeking attention or comfort. The couch is situated in the background, and the dog is the main focus of the scene.
+USER: exit...

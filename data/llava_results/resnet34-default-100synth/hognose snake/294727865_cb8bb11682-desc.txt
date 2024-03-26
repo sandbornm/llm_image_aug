@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, colorful snake with a yellow and black pattern, lying on the ground. The snake appears to be curled up, possibly resting or preparing to strike. The scene takes place on a sandy surface, which could be a beach or a desert.
+
+There are several small pebbles scattered throughout the scene, adding to the natural environment. The snake is the main focus of the image, with its vibrant colors and striking pattern.
+USER: exit...

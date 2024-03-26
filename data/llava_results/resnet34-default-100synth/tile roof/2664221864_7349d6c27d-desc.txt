@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, two-story house with a red roof, situated in a residential area. The house is surrounded by a variety of potted plants, with some placed in front of the house and others scattered around the property. 
+
+In addition to the potted plants, there are several vehicles parked outside the house. Two cars can be seen on the left side of the house, while another car is parked further back on the right side. A truck is also visible on the left side of the house, near the front.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a langur could be mistaken for a garter snake.
+USER: ASSISTANT: The image of a langur monkey might be mistaken for a garter snake due to its long, thin, and curled tail. The tail of the langur monkey is positioned in a way that it resembles the tail of a garter snake. Additionally, the monkey's body is partially hidden behind a fence, which could further contribute to the confusion between the two species. However, the presence of the fence and the monkey's distinctive features, such as its furry body and large eyes, help to distinguish it from a garter snake.
+USER: exit...

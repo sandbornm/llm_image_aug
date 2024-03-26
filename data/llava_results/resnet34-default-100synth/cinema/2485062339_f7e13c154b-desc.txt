@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large building with a brightly lit marquee sign, likely a movie theater, situated on a city street. The theater is illuminated with neon lights, creating a vibrant atmosphere.
+
+There are several cars parked in front of the theater, with one car closer to the left side of the image and two others parked further back. A person can be seen standing near the middle of the scene, possibly waiting to enter the theater or just passing by.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a person's hand holding a small crab. The crab is positioned in the center of the scene, with its claws open, and its body occupying a significant portion of the image. The person's hand can be seen on the left side of the crab, with the crab's claws resting on the person's fingers. The scene appears to be a close-up of the person's hand and the crab, capturing the interaction between the two.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man walking down a runway while wearing a colorful dress, possibly a sarong. He is the main focus of the scene, with several people surrounding him. Some of these people are standing close to the man, while others are further away, watching the event.
+
+There are at least 12 people in the scene, with some of them standing closer to the man and others further back. A handbag can be seen placed on the ground, possibly belonging to one of the spectators. The overall atmosphere suggests a fashion show or a similar event where the man is showcasing his outfit.
+USER: exit...

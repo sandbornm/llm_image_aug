@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a safety mask and goggles, working on a metal piece in a workshop. He is focused on his task, possibly sanding or welding the metal. The workshop is equipped with various tools, including a drill and a couple of bottles, which are likely containing chemicals or cleaning agents.
+
+In addition to the main worker, there are two other people in the scene, one on the left side and another on the right side of the image. The presence of these individuals suggests that the workspace is a collaborative environment where multiple people work together on projects.
+USER: exit...

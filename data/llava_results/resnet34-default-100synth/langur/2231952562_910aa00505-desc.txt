@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black and white monkey sitting on a tree branch, surrounded by lush green leaves. The monkey is positioned near the center of the scene, with its body facing the camera. The tree branch it is perched on is located towards the left side of the image. The monkey appears to be enjoying its time in the tree, surrounded by the natural beauty of the forest.
+USER: exit...

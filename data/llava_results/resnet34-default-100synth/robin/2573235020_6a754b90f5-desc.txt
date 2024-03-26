@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a bird sitting on a branch, possibly a robin, with its beak open. The bird is surrounded by a nest, which is filled with straw and possibly some twigs. The nest is located close to the bird, and it appears to be a comfortable spot for the bird to rest. The scene is set in a forest-like environment, with trees visible in the background.
+USER: exit...

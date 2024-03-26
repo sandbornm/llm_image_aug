@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a young boy wearing a red shirt, holding a small lizard in his hand. The boy is standing on a sidewalk, and the lizard appears to be a pet. The boy is also holding a knife, possibly to help him catch the lizard or to show off his catch.
+
+In the background, there are two other people, one standing further back and another closer to the middle of the scene. A backpack can be seen on the ground, possibly belonging to one of the people in the background.
+USER: exit...

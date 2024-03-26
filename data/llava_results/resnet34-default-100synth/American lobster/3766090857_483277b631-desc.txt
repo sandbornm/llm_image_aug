@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person standing in a kitchen, preparing a meal with a variety of seafood. There are several lobsters on the counter, with some of them being chopped up. The person is using a knife to cut the lobsters, and a bowl is placed nearby, possibly for holding the chopped lobster.
+
+In addition to the lobsters, there are multiple tomatoes scattered around the kitchen, possibly for use in a salad or other dish. The person is focused on their task, creating a delicious meal with fresh seafood.
+USER: exit...

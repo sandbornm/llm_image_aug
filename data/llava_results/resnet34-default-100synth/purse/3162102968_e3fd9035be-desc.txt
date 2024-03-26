@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, colorful, and patterned purse sitting on a white surface. The purse is adorned with a flower design and has a zippered compartment. The design of the purse is a combination of blue, red, and yellow colors, making it visually appealing. The purse is placed on a table, and its unique design and vibrant colors make it stand out in the scene.
+USER: exit...

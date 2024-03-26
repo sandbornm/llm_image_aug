@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman sitting at a dining table, which is covered with a checkered tablecloth. She is wearing a white headband and appears to be enjoying her meal. The table is filled with various food items, including several lobsters, a bowl, and a cup. 
+
+There are also a few chairs around the table, one on the left side and another on the right side. The woman is seated on the right side of the table, and the scene is set outdoors, possibly at a restaurant or a similar dining area.
+USER: exit...

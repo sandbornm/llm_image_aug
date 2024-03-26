@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black and white monkey sitting in a tree, surrounded by green leaves. The monkey is perched on a branch, possibly enjoying the sunlight. The tree is filled with leaves, providing a natural and lush backdrop for the monkey. The scene captures the beauty of the monkey in its natural habitat.
+USER: exit...

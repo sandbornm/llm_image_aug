@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two monkeys hanging from a metal fence in a zoo enclosure. One monkey is positioned higher up on the fence, while the other monkey is slightly lower, both enjoying their time together. The fence is made of metal, providing a secure environment for the monkeys.
+
+In addition to the two monkeys, there are several trees surrounding the enclosure, adding to the natural ambiance of the zoo. The trees are scattered around the fence, with some closer to the monkeys and others further away.
+USER: exit...

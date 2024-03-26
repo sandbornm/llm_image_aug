@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a group of four monkeys sitting on a stone wall, possibly a bridge or a wall in a zoo. They are positioned close to each other, with two monkeys sitting on the left side and two more on the right side. The monkeys appear to be looking at something in the distance, possibly observing their surroundings or interacting with each other. The scene captures the natural behavior of these animals in their habitat.
+USER: exit...

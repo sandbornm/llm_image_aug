@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a small coin purse in their hand. The purse is filled with money, including a twenty-dollar bill and a one-dollar bill. The person's hand is visible, with the purse placed in the center of the scene. The money inside the purse is neatly arranged, making it easy to see the different denominations of the bills.
+USER: exit...

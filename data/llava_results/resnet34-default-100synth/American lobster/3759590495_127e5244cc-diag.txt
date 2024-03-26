@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a American lobster could be mistaken for a reel.
+USER: ASSISTANT: The image of the American lobster is mistaken for a reel because it features a close-up of a claw with a person's hand holding it. The claw's shape and size resemble a fishing reel, which is a common tool used in fishing. The close-up of the claw and the hand holding it creates an illusion that the claw is a reel. However, the actual object in the image is a lobster claw, not a fishing reel.
+USER: exit...

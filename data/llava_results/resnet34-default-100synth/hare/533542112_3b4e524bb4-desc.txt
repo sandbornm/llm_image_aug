@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, young rabbit walking through a field of dirt and grass. The rabbit is the main focus of the scene, with its body occupying a significant portion of the image. The field appears to be a mix of dirt and grass, providing a natural habitat for the rabbit.
+USER: exit...

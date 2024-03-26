@@ -1,0 +1,7 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a city street with a row of parked motorcycles lined up along the sidewalk. There are several motorcycles of various sizes, some closer to the foreground and others further back. 
+
+In addition to the motorcycles, there are multiple people scattered throughout the scene, possibly walking or standing near the parked motorcycles. Some of them are closer to the foreground, while others are further back.
+
+A traffic light can be seen in the background, indicating that the street is likely in an urban area.
+USER: exit...

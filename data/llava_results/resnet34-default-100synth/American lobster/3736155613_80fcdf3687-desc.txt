@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large blue lobster sitting on a wooden table. The lobster is positioned towards the center of the table, occupying a significant portion of the space. The table appears to be made of wood, and the lobster's claws are visible, adding to its realistic appearance.
+USER: exit...

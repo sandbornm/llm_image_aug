@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, wild dog walking across a grassy field. The dog appears to be a coyote, with its body positioned towards the center of the scene. The dog is walking in a straight line, covering a significant portion of the field. The grassy area extends from the foreground to the background of the image, providing a natural setting for the dog's movement.
+USER: exit...

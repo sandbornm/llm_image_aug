@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a group of animals in a cave-like setting. There are two large lizards, possibly alligators, lying on the ground, with one of them appearing to be sleeping. A small frog is also present in the scene, situated near the lizards. 
+
+In addition to the lizards and frog, there are three birds in the image. One bird is perched on a rock, while the other two are positioned closer to the ground. The scene creates a diverse and intriguing atmosphere, showcasing the coexistence of various species in this unique environment.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small monkey sitting on a tree branch, surrounded by lush green foliage. The monkey appears to be looking at the camera, possibly curious about the photographer. The tree is located in a forest, providing a natural habitat for the monkey. The scene captures the beauty of the monkey in its natural environment.
+USER: exit...

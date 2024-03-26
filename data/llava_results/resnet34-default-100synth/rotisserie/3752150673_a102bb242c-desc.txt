@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large pig on a spit, cooking over a fire. The pig is positioned in the center of the scene, with the fire visible beneath it. The pig is being cooked on a spit, which is a traditional method of cooking pigs in some cultures.
+
+In the background, there are several bottles scattered around, possibly containing beverages or condiments for the meal. The bottles are placed at various distances from the pig, with some closer to the left side of the image and others further to the right.
+USER: exit...

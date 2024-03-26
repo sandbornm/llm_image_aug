@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a blue lobster in their hand. The lobster is quite large and occupies a significant portion of the scene. The person's hand is positioned above the lobster, with the lobster's claws visible and reaching upwards. The person's hand is located towards the right side of the image, while the lobster is situated more towards the left.
+USER: exit...

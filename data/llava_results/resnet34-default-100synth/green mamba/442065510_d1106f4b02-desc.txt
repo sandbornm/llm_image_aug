@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green snake, likely a boa constrictor, coiled up and resting on a branch. The snake is positioned in the center of the scene, with its body occupying a significant portion of the branch. The branch is located in a wooden box, which serves as the background of the image. The snake appears to be relaxed and comfortable in its environment.
+USER: exit...

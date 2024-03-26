@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large emergency vehicle, possibly a fire truck or an ambulance, parked on the side of a street near a bridge. The vehicle is positioned close to the water, with a body of water visible in the background. 
+
+There are several people in the scene, with some standing near the emergency vehicle and others scattered around the area. A bench can be seen in the background, and a motorcycle is parked nearby. The overall atmosphere suggests an urban setting with a mix of pedestrians and vehicles.
+USER: exit...

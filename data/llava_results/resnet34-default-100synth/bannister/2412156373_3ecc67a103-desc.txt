@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a stairway with two sets of stairs, one on the left and the other on the right. The stairs are lined with handrails, providing safety and support for those using them. The handrails are yellow, which adds a pop of color to the scene.
+
+In addition to the stairs, there is a sign on the left side of the stairway, possibly providing information or directions. The overall atmosphere of the image is that of a well-maintained and accessible public space.
+USER: exit...

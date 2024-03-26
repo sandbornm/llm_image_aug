@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a large auditorium with a stage featuring a decorative peacock mural. The stage is surrounded by a crowd of people, who are seated on various chairs arranged throughout the theater. The audience members are engaged in the performance, and some are standing while others are sitting.
+
+The chairs are spread across the auditorium, with some located closer to the stage and others further back in the seating area. The overall atmosphere of the scene is one of excitement and anticipation, as the audience eagerly awaits the next act or performance.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white and orange classic muscle car with its hood open, parked in a showroom or a parking lot. The car is surrounded by other vehicles, including a few cars and trucks, which are parked in the background. 
+
+There are several people in the scene, some of them standing near the white and orange car, while others are scattered throughout the area. A few chairs can be seen placed around the showroom, likely for people to sit and admire the vehicles on display.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green snake with a long body and a long tail, resting on a branch. The snake is positioned in the middle of the scene, with its body occupying a significant portion of the image. The branch it is resting on is located towards the left side of the image, and it appears to be a part of a tree. The snake's positioning and the branch's shape create a sense of depth and dimension in the scene.
+USER: exit...

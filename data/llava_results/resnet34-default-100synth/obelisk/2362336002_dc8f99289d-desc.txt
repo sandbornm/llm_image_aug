@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, tall obelisk monument, likely the Washington Monument, situated in a park near a body of water. The monument is surrounded by trees, creating a serene and picturesque scene. 
+
+There are several birds flying around the monument, with one bird close to the left side of the monument and two others flying near the top of the monument. The presence of these birds adds a sense of life and movement to the otherwise still and majestic monument.
+USER: exit...

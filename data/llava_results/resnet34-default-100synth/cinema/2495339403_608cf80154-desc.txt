@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a spacious lobby with a large mirror on the wall, reflecting the room's interior. There are two women standing in the lobby, one closer to the left side and the other near the center. They seem to be looking at their reflections in the mirror.
+
+The lobby is well-lit, and there are several chairs scattered throughout the space. Some chairs are placed near the left side of the room, while others are located closer to the center and right side. The overall atmosphere of the lobby appears to be inviting and comfortable.
+USER: exit...

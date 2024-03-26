@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, long-necked lizard, possibly a gecko, resting on a rock. The lizard is positioned in the center of the scene, with its long neck stretched out. The rock it is resting on is located in the lower left part of the image.
+
+In the background, there is a small portion of a green plant visible, possibly a leaf or a tree branch. The scene appears to be set in a natural environment, with the lizard enjoying its time on the rock.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dining table with a large plate filled with cooked lobsters. The lobsters are arranged in a way that they are sitting on top of each other, creating an impressive display. The table is surrounded by chairs, with one on the left side and another on the right side. 
+
+In addition to the lobsters, there is a cup placed on the table, possibly containing a beverage to accompany the meal. The overall scene suggests a delicious and appetizing meal, possibly prepared for a special occasion or a celebration.
+USER: exit...

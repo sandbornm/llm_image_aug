@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a busy street scene where a group of people is working together to load a stretcher onto the back of an ambulance. There are at least four people visible in the scene, with some of them standing closer to the ambulance and others further away.
+
+Two cars can be seen in the background, one on the left side of the image and the other on the right side. The ambulance is positioned in the center of the scene, with the stretcher being carefully placed on its back. The people involved in the process seem to be working efficiently to ensure the patient's safety and transportation.
+USER: exit...

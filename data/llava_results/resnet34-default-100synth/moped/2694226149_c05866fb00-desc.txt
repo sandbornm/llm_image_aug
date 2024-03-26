@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man riding a red scooter down a street. He is wearing a helmet for safety while enjoying his ride. The street is lined with trees, providing a pleasant atmosphere for the man.
+
+There are several other people in the scene, some of them walking or standing near the street. A few cars are parked or driving along the street, and a bicycle can be seen further down the road. The overall scene is a mix of urban life and outdoor leisure.
+USER: exit...

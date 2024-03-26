@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large auditorium with a red seating area. There are numerous red chairs arranged in rows, with some chairs facing the stage and others facing the audience. The chairs are placed in various positions, creating a well-organized seating arrangement. The stage is located towards the right side of the auditorium, and the chairs are spread out across the entire space, providing ample seating options for the audience.
+USER: exit...

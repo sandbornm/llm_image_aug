@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large blue container filled with a variety of lobsters. The container is packed with numerous lobsters, some of which are still in their shells. The lobsters are arranged in different positions, with some lying horizontally and others standing upright. The container is placed on a table, showcasing the abundance of lobsters inside.
+USER: exit...

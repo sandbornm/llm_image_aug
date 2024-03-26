@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small crab sitting in a rocky crevice, surrounded by various rocks. The crab is positioned in the middle of the scene, with the rocks surrounding it on all sides. The rocks vary in size and shape, creating a natural and interesting environment for the crab.
+USER: exit...

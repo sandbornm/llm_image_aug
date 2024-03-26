@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a red and white ambulance parked on the side of a street, surrounded by several cars. There are two cars parked in front of the ambulance, and another car is located behind it. Additionally, there are two more cars parked further down the street.
+
+A person can be seen standing near the parked cars, possibly observing the scene or waiting for someone. The street appears to be a residential area, with houses visible in the background.
+USER: exit...

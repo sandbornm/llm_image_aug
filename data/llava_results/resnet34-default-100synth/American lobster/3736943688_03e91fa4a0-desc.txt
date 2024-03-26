@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large blue lobster lying on a wooden surface, possibly a table or a crate. The lobster is positioned towards the center of the scene, occupying a significant portion of the wooden surface. The wooden surface appears to be made of wood planks, giving the scene a rustic and natural feel.
+USER: exit...

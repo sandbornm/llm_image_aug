@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a young girl wearing a colorful dress, giving a thumbs-up sign while standing in a room. She is surrounded by a group of people, some of whom are seated on chairs. There are at least six people in the scene, with some standing and others sitting.
+
+A few chairs can be seen in the room, with one chair located near the center of the scene and another chair closer to the right side. The girl's dress is the main focus of the image, as it stands out with its vibrant colors and patterns.
+USER: exit...

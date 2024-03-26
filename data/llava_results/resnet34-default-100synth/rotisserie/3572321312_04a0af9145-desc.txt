@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a microwave oven with its door open, revealing the interior. The microwave is placed on a counter, and it appears to be empty. The oven door is slightly ajar, allowing a view of the interior. The microwave is located in the middle of the scene, occupying a significant portion of the image.
+USER: exit...

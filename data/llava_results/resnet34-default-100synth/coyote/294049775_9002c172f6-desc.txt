@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two animals, a fox and a coyote, standing behind a fence. The fox is located on the left side of the fence, while the coyote is on the right side. Both animals appear to be looking at the camera, capturing their attention.
+
+The fence is made of metal, and the animals are positioned close to it. The scene gives the impression of a zoo or a wildlife enclosure, where the animals are safely contained.
+USER: exit...

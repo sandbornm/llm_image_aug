@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a blue shirt and a hat, sitting on a bench near a body of water. He is looking at the camera, possibly posing for a picture. The man is also wearing a tie, adding a formal touch to his attire.
+
+The scene takes place near a pier, with a boat visible in the background. The man is seated in the middle of the image, and the bench he is sitting on is located on the left side of the scene.
+USER: exit...

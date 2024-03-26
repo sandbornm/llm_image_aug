@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a Diesel shirt and jeans, standing in front of a graffiti-covered wall. He appears to be posing for a picture, possibly in a dark alley or a similar urban setting. The man is the main focus of the scene, with his outfit and surroundings emphasizing the Diesel brand.
+USER: exit...

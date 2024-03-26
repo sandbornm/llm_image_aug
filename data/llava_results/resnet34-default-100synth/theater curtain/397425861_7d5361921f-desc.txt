@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large building with a curtain covering the entrance. The curtain is white and hangs down from the ceiling, creating a dramatic effect. The building appears to be a theater or a concert venue, as there are several people gathered outside, likely waiting for the event to begin.
+
+In the scene, there are at least 12 people visible, some of them standing closer to the curtain while others are further away. A truck can be seen parked outside the building, possibly for delivering equipment or supplies for the event. The overall atmosphere suggests anticipation and excitement for the upcoming performance.
+USER: exit...

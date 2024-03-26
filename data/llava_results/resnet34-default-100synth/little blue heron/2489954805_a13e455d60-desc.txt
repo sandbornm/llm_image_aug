@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large blue heron standing near a body of water, possibly a river or a lake. The heron is positioned close to the water's edge, with its long neck stretched out. The water appears to be calm, and the heron seems to be looking out into the distance.
+
+There are a few rocks scattered around the area, with one close to the heron and others further away. The scene is serene and captures the beauty of the natural environment.
+USER: exit...

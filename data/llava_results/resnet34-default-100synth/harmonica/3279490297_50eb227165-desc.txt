@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a young boy sitting at a dining table, holding a microphone in front of him. He appears to be singing into the microphone, possibly practicing his singing skills. The table is surrounded by chairs, with one on the left side and another on the right side of the boy.
+
+In the background, there are two guitars, one placed on the left side of the table and the other on the right side. Additionally, there is a cup placed on the table, and a bowl can be seen on the left side. The scene suggests a casual and comfortable environment for the boy to practice his singing.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a fishing rod with a reel attached to it, sitting on a brick walkway. The reel is filled with yellow fishing line, which is wound around the spool. The fishing rod is positioned horizontally, and the reel is placed near the center of the rod.
+
+In the background, there is a chair located towards the left side of the image. The scene appears to be set outdoors, possibly near a body of water where fishing activities take place.
+USER: exit...

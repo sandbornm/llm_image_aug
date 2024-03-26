@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, old-fashioned theater with a distinctive red brick exterior. The theater is adorned with a large sign that reads "The Mikado." The theater has a grand entrance with a large archway, and the sign is positioned above it.
+
+In addition to the theater, there is a small house visible in the background, located to the left of the theater. The scene also includes a car parked in the foreground, slightly to the left of the theater.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man standing in a room, holding a vacuum cleaner and posing for a picture. He is wearing a white shirt and appears to be in a playful mood. The room has a poster on the wall, and the man is standing in front of it. The scene suggests that the man is either cleaning the room or having fun with the vacuum cleaner.
+USER: exit...

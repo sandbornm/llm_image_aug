@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a lush green field with two small brown rabbits walking through the grass. They are both facing the same direction, possibly following each other or exploring the area together. The field appears to be a part of a larger pasture, providing a natural habitat for the rabbits.
+USER: exit...

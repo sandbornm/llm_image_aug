@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a group of men standing together in a courtyard, possibly in a foreign country. They are wearing traditional clothing, including long skirts and colorful scarves. Some of the men are smiling, while others are looking at the camera.
+
+There are several people in the scene, with some standing closer to the foreground and others further back. A couple of the men are holding items, such as a cell phone and a bottle. The men are gathered around a structure, possibly a temple or a building, creating a lively atmosphere.
+USER: exit...

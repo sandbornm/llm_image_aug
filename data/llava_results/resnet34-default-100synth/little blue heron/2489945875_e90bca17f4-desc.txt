@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black bird standing on a rock in a grassy field. The bird appears to be looking around, possibly searching for food or observing its surroundings. The grassy field extends beyond the rock, creating a natural and serene environment for the bird.
+USER: exit...

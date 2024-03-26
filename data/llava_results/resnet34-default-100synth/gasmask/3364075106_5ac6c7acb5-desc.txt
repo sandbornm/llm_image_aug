@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man and a woman wearing gas masks, standing close to each other. The man is on the left side of the woman, both of them posing for a picture. The woman is wearing a pink mask, while the man is wearing a grey one. The couple appears to be enjoying their time together, possibly participating in an event or activity that requires the use of gas masks.
+USER: exit...

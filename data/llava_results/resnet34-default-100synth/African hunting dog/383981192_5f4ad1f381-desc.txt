@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a grassy field where a group of animals, including a dog and a hyena, are interacting. The dog is chasing the hyena, which is running away from it. The dog is positioned on the left side of the field, while the hyena is on the right side. 
+
+In addition to the dog and hyena, there are two birds in the scene. One bird is flying above the hyena, while the other bird is perched on a branch in the background. The field is filled with grass, providing a natural habitat for these animals.
+USER: exit...

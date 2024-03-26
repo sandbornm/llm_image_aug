@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a yellow and black striped insect, possibly a bee or a wasp, perched on a rock. The insect is positioned near the center of the scene, with its wings spread out. Another insect can be seen in the background, slightly to the right of the main insect. The scene appears to be set in a natural environment, with the rock providing a suitable resting spot for the insects.
+USER: exit...

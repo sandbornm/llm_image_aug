@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small monkey sitting on a rock in a grassy field. The monkey is positioned near the center of the scene, with its back facing the camera. The field is surrounded by trees, creating a natural and serene environment. The monkey appears to be observing its surroundings, possibly looking for food or exploring the area.
+USER: exit...

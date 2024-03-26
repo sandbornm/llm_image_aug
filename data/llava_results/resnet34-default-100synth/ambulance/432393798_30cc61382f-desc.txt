@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red and white emergency vehicle, possibly a medical van or an ambulance, driving down a road. The vehicle is passing by a forest, giving the impression of a rural setting. 
+
+There are several people in the scene, with one person standing near the middle of the road and two others closer to the edge of the road. A backpack can be seen on the ground near the person standing in the middle of the road. The overall atmosphere suggests an active and dynamic scene.
+USER: exit...

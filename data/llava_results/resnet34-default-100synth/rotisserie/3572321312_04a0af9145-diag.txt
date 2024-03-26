@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a rotisserie could be mistaken for a ambulance.
+USER: ASSISTANT: The image of a rotisserie, which is a kitchen appliance used for cooking food, could be mistaken for an ambulance due to the presence of a person inside the oven. The person appears to be in distress, possibly due to the high heat inside the oven or the uncomfortable position they are in. The person's body language and the oven's interior design, which may resemble the shape of an ambulance, could lead to confusion and misunderstanding of the image's content.
+USER: exit...

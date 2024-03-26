@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image displays a black skirt hanging on a rack, possibly in a store or a closet. The skirt is attached to a hanger, which is mounted on a metal rod. The skirt is positioned in the middle of the scene, with the hanger extending from the left side to the right side of the image.
+
+In addition to the skirt, there are two pairs of scissors visible in the scene. One pair is located near the left side of the image, while the other pair is situated closer to the right side. These scissors might be used for alterations or tailoring purposes.
+USER: exit...

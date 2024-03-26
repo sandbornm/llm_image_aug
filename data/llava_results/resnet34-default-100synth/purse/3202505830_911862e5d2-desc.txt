@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black and white handbag with a floral pattern, placed on a table. The handbag is open, revealing a white lining inside. The table appears to be a part of a bedroom setting, with a bed visible in the background. The handbag is positioned in the center of the image, drawing attention to its unique design and the contrast between the black and white colors.
+USER: exit...

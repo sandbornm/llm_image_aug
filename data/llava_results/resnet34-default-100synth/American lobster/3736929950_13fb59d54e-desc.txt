@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large blue lobster with its claws open, sitting on a wooden table. The lobster is positioned towards the left side of the table, occupying a significant portion of the scene. The claws are spread out, with one claw being more prominent than the other. The wooden table provides a natural and rustic backdrop for the lobster, emphasizing its size and beauty.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a silver Ford truck with a flatbed, where three dogs are sitting together. The dogs are of different sizes and are comfortably resting in the back of the truck. The truck is parked in a driveway, and the scene appears to be set in a residential area.
+USER: exit...

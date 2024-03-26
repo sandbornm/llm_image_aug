@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large white truck parked in a driveway, with a mountain in the background. The truck is positioned in front of a house, and it appears to be a pickup truck with a large bed. The truck is parked on a paved surface, and there are two people standing near it, possibly admiring the vehicle or preparing to use it.
+
+In the scene, there is also a chair placed on the ground, which might be used for outdoor activities or relaxation. The presence of the mountain in the background adds a sense of depth and natural beauty to the scene.
+USER: exit...

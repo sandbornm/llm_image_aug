@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a table with two laptops placed on it. One laptop is larger and positioned towards the left side of the table, while the other is smaller and located on the right side. Both laptops are open and appear to be in use.
+
+In addition to the laptops, there are two keyboards on the table. One keyboard is placed in front of the larger laptop, while the other is situated in front of the smaller laptop. A mouse can also be seen on the right side of the table, close to the smaller laptop.
+USER: exit...

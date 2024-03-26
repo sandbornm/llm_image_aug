@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, long-haired monkey swinging from a wire fence, seemingly enjoying its time in the enclosure. The monkey is hanging from the fence, showcasing its agility and playfulness. The scene is set in a zoo, where the monkey is housed and provided with a safe environment to play and interact with its surroundings.
+USER: exit...

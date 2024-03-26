@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown bird perched on a tree branch. The bird is sitting on the branch, looking upwards, possibly observing its surroundings or searching for food. The bird is the main focus of the scene, and the tree branch provides a natural and serene backdrop for the bird's presence.
+USER: exit...

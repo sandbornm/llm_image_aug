@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, industrial-sized vacuum cleaner sitting on the floor. The vacuum cleaner is silver in color and has a hose attached to it. The hose is connected to a blue tube, which is likely used for cleaning purposes. The vacuum cleaner is placed in a room with a dining table visible in the background.
+USER: exit...

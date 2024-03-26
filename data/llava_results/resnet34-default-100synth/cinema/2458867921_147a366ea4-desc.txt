@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a large auditorium with a stage and a large screen in the background. The auditorium is filled with numerous chairs, some of which are occupied by people. There are at least 12 people visible in the scene, sitting in various positions throughout the auditorium. Some are seated closer to the stage, while others are scattered around the room. The chairs are arranged in rows, creating a comfortable and organized seating arrangement for the audience.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white pickup truck parked in a driveway in front of a white house. The truck is positioned on the left side of the scene, with a mountain visible in the background. The house appears to be a two-story structure, and the driveway is located next to a street.
+
+There are several other vehicles in the scene, including a car parked further down the street and a couple of other trucks, one of which is located near the center of the image. Additionally, there are two people visible in the scene, one standing close to the truck and the other further away.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small laptop computer sitting on a desk next to a larger laptop. The smaller laptop is positioned on the left side of the desk, while the larger laptop occupies the right side. Both laptops are open and turned on, with their screens visible.
+
+In addition to the laptops, there is a cell phone placed on the desk, slightly to the right of the larger laptop. The desk appears to be a workspace, with a chair positioned in the background, and a mouse located near the right edge of the desk.
+USER: exit...

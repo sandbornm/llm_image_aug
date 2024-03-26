@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white mannequin head wearing a lace-covered hat. The hat is adorned with a purple ribbon and a bow, giving it a stylish and elegant appearance. The mannequin head is placed on a wooden table, drawing attention to the hat and its design.
+USER: exit...

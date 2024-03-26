@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two men standing next to each other, both wearing costumes. One man is dressed as a Native American, wearing a headdress, while the other man is dressed as a wizard, wearing a cape. They are both holding drinks, with one man holding a cup and the other holding a beer.
+
+The two men appear to be enjoying their time together, possibly at a party or a themed event. The scene is set in a room with a dining table visible in the background.
+USER: exit...

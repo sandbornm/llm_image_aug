@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, cute, and curious animal, possibly a meerkat or a lemur, standing on a rock in its enclosure at a zoo. The animal is looking at the camera, capturing the attention of the visitors. 
+
+There are several people in the scene, observing the animal from various positions. Some are standing closer to the enclosure, while others are further away, all admiring the unique and adorable creature. The visitors appear to be enjoying their time at the zoo, witnessing the animal's behavior and interacting with the exhibit.
+USER: exit...

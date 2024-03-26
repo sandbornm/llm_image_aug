@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red helicopter flying in the air, likely performing a rescue mission. The helicopter is prominently visible in the scene, occupying a significant portion of the image. The sky serves as the backdrop for the helicopter's flight, creating a sense of motion and action.
+USER: exit...

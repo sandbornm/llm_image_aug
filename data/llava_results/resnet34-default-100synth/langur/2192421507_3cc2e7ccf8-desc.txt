@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large brown monkey with a baby monkey on its back, walking together. The adult monkey is carrying the baby monkey in its arms, providing protection and care. They are both standing on a concrete surface, possibly a sidewalk or a platform.
+
+The monkeys are the main focus of the scene, with their size and unique bonding moment capturing attention. The baby monkey is positioned close to the adult monkey, and they both appear to be moving together in harmony.
+USER: exit...

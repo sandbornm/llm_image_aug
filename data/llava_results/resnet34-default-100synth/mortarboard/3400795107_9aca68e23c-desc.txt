@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features three people wearing graduation caps and gowns, celebrating their academic achievements. They are standing in the sky, with their caps and gowns flying upwards as they jump and cheer. The scene is set against a backdrop of a cloudy sky, adding a sense of excitement to the moment. The three individuals are spread out across the frame, with one person on the left side, another in the middle, and the third on the right side of the image.
+USER: exit...

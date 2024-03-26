@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a rotisserie could be mistaken for a American lobster.
+USER: ASSISTANT: The image of a rotisserie could be mistaken for an American lobster due to the presence of a large, cooked animal on a spit, which is reminiscent of the appearance of a lobster. The lobster-like appearance is further emphasized by the fact that the cooked animal is placed on a spit, which is a common method of cooking lobsters. The close-up view of the cooked animal on the spit in the image might also contribute to the confusion, as it could be perceived as a lobster due to its size and shape. However, it is important to note that the animal in the image is actually a cooked chicken, not an American lobster.
+USER: exit...

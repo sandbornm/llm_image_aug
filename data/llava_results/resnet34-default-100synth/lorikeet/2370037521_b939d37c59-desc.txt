@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a colorful bird perched on a tree branch, surrounded by leaves. The bird is sitting on the branch and appears to be enjoying its time in the tree. The scene is set in a forest-like environment, with the bird being the main focus of the image.
+USER: exit...

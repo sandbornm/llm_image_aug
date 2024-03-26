@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a laptop computer sitting on a wooden desk. The laptop screen is open and displaying a picture of a man with a mustache, likely a cartoon or a funny image. A cup is placed near the laptop, and a cell phone is located on the desk as well.
+
+In addition to the laptop and cell phone, there are two books on the desk, one on the left side and the other on the right side. A handbag is also present on the desk, situated near the left side.
+USER: exit...

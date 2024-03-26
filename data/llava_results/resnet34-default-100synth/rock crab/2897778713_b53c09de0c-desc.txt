@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dining table with a white plate filled with a delicious meal of crab meat. The crab meat is served on a bed of broth, and it appears to be a close-up of the dish. The plate is placed on a table with other dishes, including a bowl and a cup.
+
+There are two people in the scene, one on the left side and another on the right side of the table. Both individuals are likely enjoying the meal and the company. The table setting is complete with a fork and a spoon, placed near the edge of the table.
+USER: exit...

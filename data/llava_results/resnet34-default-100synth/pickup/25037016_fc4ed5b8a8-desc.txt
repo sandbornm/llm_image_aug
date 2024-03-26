@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white pickup truck parked in a driveway in front of a house. The truck is positioned in the middle of the scene, and it appears to be a classic model. The house is located to the left of the truck, and there is a church in the background, visible on the right side of the image.
+
+In addition to the truck and the house, there are two people in the scene. One person is standing near the left side of the truck, while the other is located closer to the right side of the image.
+USER: exit...

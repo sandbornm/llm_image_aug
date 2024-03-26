@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large crowd of people gathered on a field, with many of them wearing white uniforms. The crowd is watching a football game, and there is a football player in the center of the scene, possibly celebrating a touchdown. The spectators are spread out across the field, with some standing closer to the edge and others further back.
+
+In addition to the people, there are two chairs visible in the scene, one near the center and the other towards the right side. A backpack can also be seen on the ground, possibly belonging to one of the spectators. The atmosphere is lively, with everyone engaged in the exciting game.
+USER: exit...

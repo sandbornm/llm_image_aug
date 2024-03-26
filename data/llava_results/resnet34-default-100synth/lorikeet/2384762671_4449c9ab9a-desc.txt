@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a colorful bird perched on a tree branch, surrounded by pink flowers. The bird is positioned near the center of the scene, with its vibrant colors contrasting beautifully against the backdrop of the pink flowers. The tree branch it is sitting on is located towards the left side of the image. The scene captures the beauty of nature and the bird's striking appearance.
+USER: exit...

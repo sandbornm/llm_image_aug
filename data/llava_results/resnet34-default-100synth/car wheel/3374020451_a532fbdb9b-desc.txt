@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black car parked in a garage, with its hood open. The car is a sports car, likely a Mustang, and it appears to be a convertible. The car is parked next to a wall, and there is a person standing near the car, possibly admiring or working on it. The person is located towards the right side of the car, and their presence adds a sense of activity to the scene.
+USER: exit...

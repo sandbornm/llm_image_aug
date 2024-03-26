@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white pickup truck parked in a driveway next to a house. The truck has a metal bed cover and a chrome bumper, giving it a shiny appearance. The truck is parked in front of a garage, which is located on the left side of the house.
+
+In addition to the truck, there are two people visible in the scene. One person is standing closer to the left side of the truck, while the other person is positioned further to the right. The scene appears to be a typical day in a residential neighborhood.
+USER: exit...

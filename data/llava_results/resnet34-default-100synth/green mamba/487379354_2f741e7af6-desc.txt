@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green snake with a yellow belly, curled up and resting on a tree branch. The snake is positioned near the center of the scene, with its body occupying a significant portion of the branch. The branch is located in the middle of the image, surrounded by a few other branches. The snake's position on the branch creates a sense of camouflage, blending in with the surrounding environment.
+USER: exit...

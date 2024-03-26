@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man and a woman, both wearing graduation caps and gowns, posing for a picture. The man is standing behind the woman, who is sitting on a chair. They are both smiling, proudly displaying their graduation attire. 
+
+The man is wearing a tie, which is visible in the scene. The woman is also wearing a necklace, adding a touch of elegance to the photo. The scene captures the joy and accomplishment of the graduates as they celebrate their academic achievements.
+USER: exit...

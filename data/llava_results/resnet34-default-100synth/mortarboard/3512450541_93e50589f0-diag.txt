@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a mortarboard could be mistaken for a sarong.
+USER: ASSISTANT: The image of a mortarboard, which is a graduation cap, could be mistaken for a sarong due to the blue color and the way it is positioned on the woman's head. The mortarboard is placed on the woman's head in a similar manner to how a sarong is worn, with the fabric draped over her shoulders and covering her head. Additionally, the blue color of the mortarboard could also be perceived as blue fabric of a sarong. However, it is important to note that the mortarboard is a graduation cap, and the woman is a graduate, which is evident from the context of the image.
+USER: exit...

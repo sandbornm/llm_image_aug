@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a langur could be mistaken for a Great Dane.
+USER: ASSISTANT: In the image, a langur is sitting on a rock in a grassy field. The langur's posture and positioning might initially be mistaken for a Great Dane due to its similar size and the way it is sitting on the rock. However, upon closer inspection, one can notice the langur's distinctive features such as its long tail, which is a characteristic of this species. Additionally, the langur's fur color and facial features are different from those of a Great Dane, making it clear that it is a langur and not a dog.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a restaurant kitchen with two large brick ovens, each filled with a variety of food items. The ovens are placed side by side, and they are both filled with baked goods, including several cakes. The food items are arranged in different positions within the ovens, creating an appetizing display.
+
+In addition to the ovens, there is a TV mounted on the wall above the ovens, likely used for entertainment or monitoring purposes. The kitchen also has a dining table located towards the right side of the room, providing a space for preparing and serving meals.
+USER: exit...

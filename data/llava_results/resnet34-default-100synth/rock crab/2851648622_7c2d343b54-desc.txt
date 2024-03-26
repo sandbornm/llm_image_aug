@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up view of a crab's claw, with a person's hand holding the claw in the foreground. The crab's claw is brown and has a yellowish tint, giving it a unique appearance. The claw is positioned in the center of the image, with the person's hand surrounding it. The focus of the image is on the crab's claw, highlighting its intricate details and texture.
+USER: exit...

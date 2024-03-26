@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small fox running across a dirt field, possibly in a desert-like environment. The fox is in motion, with its body facing the left side of the image. The scene captures the fox's movement and the surrounding landscape.
+USER: exit...

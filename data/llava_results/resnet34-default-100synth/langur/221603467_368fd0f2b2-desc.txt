@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, hairy monkey perched on a fence, possibly in a zoo enclosure. The monkey is sitting on top of the fence, looking down at the ground below. The fence is made of wood and appears to be a part of a building.
+
+In the background, there is a dining table with a chair placed nearby. The scene suggests that the monkey is in a controlled environment, possibly a zoo or a wildlife sanctuary.
+USER: exit...

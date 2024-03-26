@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a tall, slender obelisk, possibly a monument or a building, towering over a city. The obelisk stands prominently in the center of the scene, surrounded by trees and buildings. The trees are bare, indicating that the photo was taken during the colder months.
+
+There are several people scattered throughout the image, possibly admiring the monument or going about their daily activities. Some of them are closer to the foreground, while others are further in the background, adding a sense of depth and scale to the scene.
+USER: exit...

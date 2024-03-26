@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a scene where a group of firefighters is attending to an accident involving a car. The car is located on the left side of the scene, and the firefighters are working diligently to assist the driver. 
+
+There are several cars parked in the background, with some closer to the left side of the image and others further away. A motorcycle is also visible on the right side of the scene. In addition to the firefighters, there are a few other people present in the scene, possibly witnessing the accident or waiting for assistance.
+USER: exit...

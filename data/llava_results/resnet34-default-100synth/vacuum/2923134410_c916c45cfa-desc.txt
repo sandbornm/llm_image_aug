@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green vacuum cleaner sitting on a carpeted floor. The vacuum cleaner is accompanied by a long-handled broom, which is placed next to it. The broom is positioned horizontally, with the vacuum cleaner situated above it. The scene appears to be a cleaning area, with the vacuum cleaner and broom ready for use.
+USER: exit...

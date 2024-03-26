@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a lively scene in a market, where a group of people is gathered around a meat counter. There are at least five people visible in the scene, with one man standing near the counter, possibly a chef, and the others are scattered around the area.
+
+The meat counter is filled with various types of meat, including several pieces of pork. Some of the pork is displayed on the counter, while others are hanging from the ceiling. The people in the scene seem to be engaged in conversation or observing the meat on display. The overall atmosphere appears to be social and bustling, typical of a market setting.
+USER: exit...

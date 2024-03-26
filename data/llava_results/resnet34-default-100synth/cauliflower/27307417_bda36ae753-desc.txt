@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white plate with a delicious meal consisting of broccoli and cheese. There are several pieces of broccoli on the plate, some of which are covered in cheese. The broccoli pieces are spread out across the plate, with some placed closer to the edges and others in the center. The dish appears to be a healthy and appetizing meal.
+USER: exit...

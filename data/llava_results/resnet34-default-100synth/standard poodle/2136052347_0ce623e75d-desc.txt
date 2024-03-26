@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two white dogs lying down in a grassy field, enjoying a snack. One dog is located on the left side of the image, while the other is on the right side. Both dogs are eating grass, with one dog chewing on a piece of grass in its mouth. The dogs seem to be relaxed and content as they enjoy their snack.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red crab sitting on a rock in a body of water. The crab is positioned near the center of the scene, surrounded by multiple rocks. The rocks are scattered throughout the water, with some being larger and others smaller. The crab appears to be looking up, possibly observing its surroundings or waiting for something to happen.
+USER: exit...

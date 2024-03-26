@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a baby sitting in a crib, which is placed in a bedroom. The baby is lying on a blanket, and there are several books scattered around the room. Some books are located near the crib, while others are placed on the floor or on a surface nearby. The room also contains a chair and a dining table, which can be seen in the background.
+USER: exit...

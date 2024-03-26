@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a fence with two purple and black gas masks hanging on it. The masks are positioned close to each other, with one slightly higher than the other. The fence is made of metal, and the masks are attached to it, creating a unique and interesting display.
+USER: exit...

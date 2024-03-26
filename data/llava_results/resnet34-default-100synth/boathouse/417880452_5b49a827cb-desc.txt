@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small wooden cabin situated near a lake. The cabin is surrounded by a forest, with trees in the background and a few more trees closer to the water. The cabin appears to be in a state of disrepair, possibly abandoned or neglected.
+
+The scene also includes a boat floating on the lake, adding a sense of tranquility to the overall atmosphere. The boat is positioned towards the right side of the image, with the cabin and trees in the foreground.
+USER: exit...

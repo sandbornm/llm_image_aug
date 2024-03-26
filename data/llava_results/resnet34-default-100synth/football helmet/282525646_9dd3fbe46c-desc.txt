@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two women wearing football helmets, likely as a fun and playful activity. They are both smiling and enjoying the moment. One woman is wearing a blue helmet, while the other is wearing a black helmet. The women are positioned close to each other, with one woman standing behind the other.
+
+In the background, there is a car visible, likely the setting for this playful moment. The women seem to be having a good time, as they are both laughing and enjoying the experience.
+USER: exit...

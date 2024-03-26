@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large snake, possibly a black or brown one, lying on the sandy ground near a grassy area. The snake is positioned in the middle of the scene, with its body stretched out. 
+
+In the background, there are trees and a field, creating a natural setting for the snake. The scene is captured in a close-up view, allowing the viewer to appreciate the snake's size and the surrounding environment.
+USER: exit...

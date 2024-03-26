@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a yellow car with a large, round, chrome wheel in the foreground. The wheel is prominently displayed, taking up a significant portion of the image. There are several other cars in the background, with one car positioned behind the yellow car and another car further back on the right side. The scene appears to be set in a parking lot or a similar outdoor space.
+USER: exit...

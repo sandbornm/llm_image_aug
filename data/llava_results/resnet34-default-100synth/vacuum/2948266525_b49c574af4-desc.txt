@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green trash can filled with various items, including clothes and a vacuum cleaner. The trash can is placed on the side of the road, and it appears to be full of trash. The vacuum cleaner is located near the center of the trash can, while the clothes are scattered throughout the bin.
+
+In addition to the trash can, there is a handbag placed on the ground to the left of the trash can. The scene suggests that someone might be in the process of cleaning or organizing their belongings.
+USER: exit...

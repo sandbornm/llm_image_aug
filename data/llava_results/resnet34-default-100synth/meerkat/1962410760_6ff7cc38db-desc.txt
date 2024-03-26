@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, brown and black animal walking across a rocky surface. The animal appears to be a small mammal, possibly a rodent, and it is moving along the ground. The scene is set in a rocky area, with the animal's path visible as it makes its way across the terrain.
+USER: exit...

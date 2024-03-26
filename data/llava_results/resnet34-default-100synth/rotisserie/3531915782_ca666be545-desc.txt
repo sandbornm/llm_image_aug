@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a microwave oven with its door open, revealing the interior. Inside the microwave, there are two microwaveable plastic containers placed side by side, possibly for heating or defrosting purposes. The microwave is white and appears to be in good condition, ready for use.
+USER: exit...

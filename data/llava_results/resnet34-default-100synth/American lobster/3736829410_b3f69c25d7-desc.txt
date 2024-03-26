@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a pair of blue lobsters in their hands. The lobsters are placed on top of each other, with one lobster being larger than the other. The person is standing in front of a door, possibly in a kitchen or dining area.
+
+In the background, there is another person visible, likely observing the lobsters or waiting for their turn to handle them. The scene captures the excitement of interacting with these delicious sea creatures.
+USER: exit...

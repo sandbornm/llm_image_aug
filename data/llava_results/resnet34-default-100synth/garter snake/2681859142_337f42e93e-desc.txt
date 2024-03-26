@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a snake coiled up and resting in a leafy green bush. The snake is positioned in the center of the bush, surrounded by a dense cluster of leaves. The leaves are of various sizes and are spread throughout the scene, creating a lush and natural environment for the snake. The snake appears to be camouflaged within the foliage, blending in with the surrounding plants.
+USER: exit...

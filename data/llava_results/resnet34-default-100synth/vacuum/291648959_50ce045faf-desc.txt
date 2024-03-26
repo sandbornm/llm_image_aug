@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman standing in a room, holding an old typewriter in her hands. She is smiling and appears to be showing it off to two men who are standing nearby. The two men are engaged in a conversation, with one of them holding a piece of paper.
+
+The room has a dining table in the background, and there are two chairs placed around it. A cup can be seen on the table, and a bottle is located near the edge of the table. The scene suggests a casual gathering or a friendly meeting among the three individuals.
+USER: exit...

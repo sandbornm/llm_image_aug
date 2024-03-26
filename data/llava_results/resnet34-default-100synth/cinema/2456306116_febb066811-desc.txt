@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large movie theater with a distinctive white and green color scheme. The theater is illuminated with neon lights, creating a vibrant atmosphere. The building is adorned with a row of circular lights on the top, adding to the theater's unique design.
+
+In front of the theater, there is a small group of people standing outside, possibly waiting to enter the building or just passing by. The scene captures the essence of a night at the movies, with the theater's lights and the people gathered outside.
+USER: exit...

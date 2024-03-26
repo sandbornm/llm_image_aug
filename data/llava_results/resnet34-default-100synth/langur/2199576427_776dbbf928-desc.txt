@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two black monkeys sitting in a tree, surrounded by green leaves. They are both looking down, possibly observing something below them. The monkeys are positioned close to each other, with one monkey slightly higher up in the tree, while the other is lower down. The tree provides a natural habitat for these animals, allowing them to rest and interact with their surroundings.
+USER: exit...

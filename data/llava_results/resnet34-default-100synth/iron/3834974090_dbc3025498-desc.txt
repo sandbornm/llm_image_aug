@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a stove top with a toaster on it, which is positioned near the center of the scene. The toaster is in the process of toasting a piece of bread, which is visible on the stove top. The toaster is surrounded by a few other items, including a spatula, a knife, and a towel. The spatula is placed on the left side of the toaster, while the knife is located on the right side. The towel is situated above the toaster, possibly for cleaning purposes or to protect the stove top from any spills.
+USER: exit...

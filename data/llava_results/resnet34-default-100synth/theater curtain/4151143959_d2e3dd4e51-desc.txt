@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red curtain hanging on the side of a stage, likely in a theater or a similar venue. The curtain is open, revealing a red wall behind it. The curtain is adorned with a gold trim, giving it an elegant appearance. The stage itself is not visible in the image, but the curtain serves as a backdrop for the performance.
+USER: exit...

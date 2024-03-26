@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dog standing in a forest, looking at the camera with a focused expression. The dog appears to be a coyote, with its ears perked up and its eyes wide open. The dog is standing on a dirt path, surrounded by a forest environment.
+USER: exit...

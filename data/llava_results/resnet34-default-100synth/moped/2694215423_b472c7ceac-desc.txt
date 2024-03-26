@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a busy street scene with multiple people riding motorcycles and bicycles. There are at least six motorcycles and four bicycles visible in the scene, with some riders wearing helmets for safety. 
+
+In addition to the riders, there are several pedestrians on the street, some of whom are carrying handbags. The street is lined with various buildings, creating an urban atmosphere. The overall scene is lively and bustling with activity.
+USER: exit...

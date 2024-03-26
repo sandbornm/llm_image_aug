@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person standing near a body of water, holding a fishing rod with a lure attached to it. The person is likely preparing to fish or has just finished fishing. The fishing rod is positioned horizontally, with the lure hanging from it.
+
+The scene takes place near a dock, where the person is standing. The water appears to be calm, providing a suitable environment for fishing. The overall atmosphere suggests a leisurely outdoor activity, with the person enjoying the serene surroundings.
+USER: exit...

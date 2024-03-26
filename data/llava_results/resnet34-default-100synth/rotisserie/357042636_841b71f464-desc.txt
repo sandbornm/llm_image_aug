@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image shows a room with a carpeted floor, and a microwave oven is placed on the left side of the room. Next to the microwave, there is a metal wire rack, possibly a wire basket, with various utensils and kitchen tools inside it. The utensils include a spoon, a fork, and a knife, all placed in the wire basket. The scene suggests a kitchen or dining area where these items are stored or used for cooking and dining purposes.
+USER: exit...

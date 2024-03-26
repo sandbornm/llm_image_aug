@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman sitting in a chair, feeding two dogs treats. The dogs are eagerly waiting for the treats, with one dog positioned closer to the woman and the other dog further away. The woman is holding a box of dog treats, and the dogs are eagerly anticipating the snacks.
+
+In the room, there are several knick-knacks, including a vase, a clock, and a bowl. The vase is placed on a surface near the woman, while the clock is hanging on the wall. The bowl is located on a surface in the background.
+USER: exit...

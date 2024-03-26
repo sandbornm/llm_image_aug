@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a room with a table displaying a collection of football helmets. There are three blue helmets prominently displayed on the table, each with a different design. The helmets are arranged in a way that they are easily visible and accessible.
+
+In addition to the helmets, there are several other items in the room. A pair of scissors can be seen on the table, as well as a couple of books placed nearby. A chair is also present in the room, positioned close to the table.
+USER: exit...

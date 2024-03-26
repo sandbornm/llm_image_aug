@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a city street with a white truck parked near the sidewalk. The truck is positioned close to a fire hydrant, and there are several traffic lights in the scene, with one located near the truck and others scattered throughout the street.
+
+In addition to the truck, there are multiple cars parked or driving on the street, and a few pedestrians can be seen walking along the sidewalk. The scene captures the hustle and bustle of a typical city street, with various vehicles and people going about their daily activities.
+USER: exit...

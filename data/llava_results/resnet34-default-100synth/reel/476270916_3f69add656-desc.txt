@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a boat floating on a large body of water, with a fishing rod prominently sticking out of the water. The fishing rod is attached to a reel, which is mounted on the boat. The scene is set against a beautiful blue sky, creating a serene and picturesque atmosphere.
+USER: exit...

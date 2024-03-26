@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a blue vintage car parked on the side of a street. The car is an old-fashioned model, possibly a Model T, and is parked next to a fire hydrant. The car is positioned in front of a building, possibly a store or a restaurant, as there are people walking by and a few cars parked nearby.
+
+There are several people in the scene, with one person standing close to the left side of the car, another person near the center, and two more people on the right side of the car. Additionally, there is a fire hydrant located on the left side of the car, and a truck can be seen parked further down the street.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden desk with a computer setup, including a keyboard and a mouse. The computer monitor is positioned on the desk, and a cell phone can be seen nearby. There are two cups on the desk, one closer to the left side and the other near the center. 
+
+In addition to the computer setup, there are two books on the desk, one located near the right side and the other in the middle. A TV is also present in the scene, situated on the left side of the desk. A bottle can be seen on the left side of the desk, and a bowl is placed on the left side of the desk as well.
+USER: exit...

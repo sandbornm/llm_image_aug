@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a snake lying on the ground, possibly a black or brown one, with its body twisted and curled up. The snake is surrounded by a grassy area, and it appears to be resting or possibly preparing to strike. The snake's body occupies a significant portion of the image, with its head and tail visible. The scene is set in an outdoor environment, possibly a forest or a grassy field.
+USER: exit...

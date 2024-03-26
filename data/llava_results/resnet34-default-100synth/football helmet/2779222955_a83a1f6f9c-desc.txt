@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a football player wearing a helmet and a green jersey. The player is standing on a field, possibly preparing for a game or practice. The helmet is positioned on the player's head, providing protection during the game.
+
+In the background, there are two other people, possibly teammates or opponents, standing on the field as well. The scene captures the atmosphere of a sports event, with the main focus on the football player wearing the helmet.
+USER: exit...

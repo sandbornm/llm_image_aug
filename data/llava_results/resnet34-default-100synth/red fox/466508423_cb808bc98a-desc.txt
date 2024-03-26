@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a zoo enclosure with two animals, possibly goats or antelopes, lying down on a rocky surface. One animal is positioned closer to the left side of the enclosure, while the other is situated more towards the right side. 
+
+In addition to the animals, there are two rocks in the enclosure, one located near the left animal and the other near the right animal. A branch can also be seen in the background, extending from the right side of the enclosure towards the top right corner.
+USER: exit...

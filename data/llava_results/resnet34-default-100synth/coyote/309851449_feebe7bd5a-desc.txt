@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dead animal, possibly a dog or a wolf, hanging from a power line. The animal appears to be in a state of decay, with its body hanging from the wire. The scene gives off an eerie and unsettling atmosphere.
+USER: exit...

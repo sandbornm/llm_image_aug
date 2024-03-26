@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small crab walking on a beach, surrounded by sand and rocks. The crab is positioned in the middle of the scene, with its legs spread out as it moves across the sand. The beach is covered in a mix of sand and rocks, creating a natural and scenic environment for the crab.
+USER: exit...

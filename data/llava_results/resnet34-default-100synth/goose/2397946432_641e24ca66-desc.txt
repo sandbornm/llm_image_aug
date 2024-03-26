@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large black and white bird, possibly a goose, flying over a body of water. The bird is in the middle of the scene, with its wings spread wide, creating a sense of motion. The water appears to be calm, providing a serene backdrop for the bird's flight.
+USER: exit...

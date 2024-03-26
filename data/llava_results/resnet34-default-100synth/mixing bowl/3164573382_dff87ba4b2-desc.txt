@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image showcases a large, black vase with a painting of three figures on its side. The vase is placed on a table, and it appears to be an ancient Greek vase. The figures on the vase are depicted in various positions, with one figure standing, another sitting, and the third figure lying down. The vase's design and the figures' poses suggest a story or a scene from ancient Greek mythology.
+USER: exit...

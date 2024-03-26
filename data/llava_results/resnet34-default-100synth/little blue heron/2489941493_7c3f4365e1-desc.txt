@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large black bird standing in a field, with its wings spread wide. The bird appears to be either taking off or landing on the ground. The field is surrounded by a forest, giving the scene a serene and natural atmosphere. The bird is the main focus of the image, occupying a significant portion of the frame.
+USER: exit...

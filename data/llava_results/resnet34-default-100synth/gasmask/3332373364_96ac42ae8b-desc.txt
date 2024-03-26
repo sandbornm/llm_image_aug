@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man and a woman wearing gas masks, standing close to each other and posing for a picture. The man is wearing a hat and a pink gas mask, while the woman is also wearing a pink gas mask. They are both smiling and seem to be enjoying the moment.
+
+In the background, there is a chair visible, possibly indicating that they are in a room or an outdoor setting. The couple appears to be the main focus of the image, as they are the only two people visible in the scene.
+USER: exit...

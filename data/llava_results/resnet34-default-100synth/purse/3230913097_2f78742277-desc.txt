@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a colorful purse with a unique design, sitting on a white sheet or bed. The purse is adorned with a combination of red, blue, and green colors, making it a vibrant and eye-catching accessory. The purse is positioned in the center of the image, and the sheet or bed it is placed on occupies the majority of the background.
+USER: exit...

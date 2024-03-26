@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a beach scene with a fishing rod standing upright in the sand near the water. The fishing rod is prominently visible, extending from the left side of the image to the right. 
+
+In the background, there are a few people enjoying the beach. One person is located near the center of the image, while another person is further to the right. The scene captures a relaxing and leisurely atmosphere at the beach.
+USER: exit...

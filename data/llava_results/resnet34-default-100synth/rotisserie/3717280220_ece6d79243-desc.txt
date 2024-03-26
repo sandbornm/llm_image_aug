@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large kitchen with two industrial ovens, each with a person working inside. One person is located near the left oven, while the other is positioned near the right oven. Both individuals are wearing white coats and appear to be preparing food.
+
+In the kitchen, there are several bowls placed on the countertops, with one near the left oven, another near the right oven, and a third one further away. Additionally, there are two cups, one near the left oven and the other near the right oven. A spoon can also be seen on the countertop near the left oven.
+USER: exit...

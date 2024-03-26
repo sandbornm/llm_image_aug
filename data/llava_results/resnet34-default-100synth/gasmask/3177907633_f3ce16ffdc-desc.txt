@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a gas mask, kneeling down and holding a cell phone in his hand. He appears to be looking at the phone, possibly checking messages or browsing the internet. The man is also wearing gloves, which might be useful for handling the cell phone or other tasks that require protection from potential hazards.
+USER: exit...

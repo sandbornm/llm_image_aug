@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a yellow helmet and a blue jacket, hanging from a wire with a stretcher in his hands. He appears to be a rescue worker or a fireman, possibly assisting someone in need. The stretcher is attached to a rope, which the worker is holding onto while suspended in the air.
+
+The scene takes place in front of a building, possibly a brick building, which adds to the urban setting of the image. The worker's focus and determination are evident as he carries out his task.
+USER: exit...

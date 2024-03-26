@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man in military uniform standing on a sidewalk, possibly at a funeral. He is wearing a hat and appears to be saluting the casket, which is placed on a red cart. There are several other people in the scene, some of them standing close to the man in uniform, while others are further away. 
+
+In the background, there are two benches, one located closer to the left side of the image and the other one on the right side. A handbag can be seen placed near the right side of the image, and a clock is visible in the upper right corner.
+USER: exit...

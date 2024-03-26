@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, modern-looking movie theater with a prominent, tall building in the background. The theater is likely a Cinemark, as indicated by the name on the building. The building has a large, circular structure with a prominent clock on its side.
+
+There are several people scattered around the scene, possibly waiting to enter the theater or enjoying the outdoor area. Some of them are closer to the theater, while others are further away, near the edge of the image. The presence of people suggests that the theater is a popular destination for movie-goers.
+USER: exit...

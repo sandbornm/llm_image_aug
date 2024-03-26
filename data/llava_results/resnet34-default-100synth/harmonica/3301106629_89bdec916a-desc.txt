@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a hat and sunglasses, sitting in a chair and smoking a cigarette. He is holding the cigarette in his hand, and there is a lighter nearby. The man appears to be enjoying his time outdoors, possibly at a picnic or a similar event.
+USER: exit...

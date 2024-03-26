@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a snake's head with a small bird perched on its nose. The snake appears to be a copperhead, a type of venomous snake, and is lying on the ground. The bird is positioned on the snake's nose, seemingly unbothered by the snake's presence. The scene captures the unique interaction between the two animals in their natural habitat.
+USER: exit...

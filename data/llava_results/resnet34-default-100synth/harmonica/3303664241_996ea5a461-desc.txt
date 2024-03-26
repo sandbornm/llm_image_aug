@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man wearing a hat and a jacket, standing in a room. He is holding a blue toothbrush in his mouth, possibly attempting to brush his teeth while standing up. The man is also holding a cell phone in his hand.
+
+The room has a dining table in the background, with a chair positioned near it. There are a few other people in the room, but they are not the main focus of the scene. The man with the toothbrush and cell phone appears to be the main subject of the image.
+USER: exit...

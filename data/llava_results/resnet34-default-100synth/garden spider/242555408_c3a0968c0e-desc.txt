@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a spider weaving a web in a garden setting. The spider is positioned in the center of the scene, with its web stretching across the frame. Near the spider, there is a dead bird hanging from the web, adding a sense of danger to the scene.
+
+In the background, a few potted plants can be seen, with one located on the left side of the image and two others on the right side. The plants provide a natural and peaceful atmosphere to the scene.
+USER: exit...

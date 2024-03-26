@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a rocky shoreline with a crab sitting on a rock. The crab is positioned near the center of the scene, occupying a significant portion of the rock. The shoreline is surrounded by water, with the ocean visible in the background. The crab appears to be looking at the camera, possibly curious about its surroundings.
+USER: exit...

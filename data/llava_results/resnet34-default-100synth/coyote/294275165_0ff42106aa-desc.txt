@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dog standing on a dirt road, looking at the camera. The dog appears to be a coyote, with its ears perked up and alert. The dog is positioned near the center of the scene, occupying a significant portion of the image. The dirt road stretches across the background, providing a natural setting for the dog.
+USER: exit...

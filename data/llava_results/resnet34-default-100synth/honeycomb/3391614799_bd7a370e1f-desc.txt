@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up view of a bee nest hanging from a tree branch. The nest is filled with numerous bees, creating a honeycomb-like structure. The bees are scattered throughout the nest, with some bees positioned closer to the center and others near the edges. The scene captures the intricate details of the bee nest and the bees' organized arrangement.
+USER: exit...

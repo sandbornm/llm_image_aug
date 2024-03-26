@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman sitting at a dining table, holding a cooked lobster in her hands. She is smiling and appears to be enjoying the experience. The table is surrounded by several chairs, with some people sitting and others standing around the table. 
+
+In addition to the lobster, there are a few other items on the table, such as a bowl, a cup, and a fork. The scene seems to be a social gathering where people are enjoying their meal together.
+USER: exit...

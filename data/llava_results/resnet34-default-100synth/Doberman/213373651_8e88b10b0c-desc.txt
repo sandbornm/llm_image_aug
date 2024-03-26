@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dog and a horse standing next to each other in a room. The dog is lying on a bed, while the horse is standing nearby. The dog appears to be playing with the horse, as they both seem to be enjoying their time together.
+
+In the room, there are two couches, one located in the background and the other closer to the dog and horse. A potted plant can be seen in the background, adding a touch of greenery to the scene.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person sitting on the floor, surrounded by various bags and purses. There are three handbags in the scene, with one placed on the left side, another in the middle, and the third on the right side. A fourth handbag can be seen in the background. 
+
+In addition to the handbags, there are two cell phones in the scene, one located towards the left side and the other towards the right side. A pair of scissors is also visible on the right side of the image. The person appears to be surrounded by these items, possibly organizing or sorting through their belongings.
+USER: exit...

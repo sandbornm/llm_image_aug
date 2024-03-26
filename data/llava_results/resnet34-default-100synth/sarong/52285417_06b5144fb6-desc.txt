@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a shirtless man standing on a sandy beach, looking out at the ocean. He is wearing a pair of green swimming trunks and appears to be enjoying his time at the beach. The man is positioned near the center of the scene, with the ocean in the background.
+USER: exit...

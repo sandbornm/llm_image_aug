@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white bowl filled with a variety of fruits, including blueberries, raspberries, and blackberries. The fruits are arranged in a visually appealing manner, with the blueberries and raspberries placed in the center of the bowl, while the blackberries are scattered around them. The bowl is placed on a table, creating a colorful and inviting display of fresh fruit.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image captures a young man skillfully riding a skateboard down a metal railing. He is performing a daring trick, seemingly flying through the air while maintaining his balance on the skateboard. The scene takes place in front of a brick building, adding to the urban atmosphere.
+
+In the background, there are two benches, one on the left side and another on the right side of the image. The benches are positioned at different distances from the skateboarder, with the first one being closer to the building, and the second one further away.
+USER: exit...

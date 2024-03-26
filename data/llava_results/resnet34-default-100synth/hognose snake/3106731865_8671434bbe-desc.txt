@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large snake lying on the ground, possibly in a basement or a dirt floor. The snake is curled up and appears to be resting or sleeping. The scene is set in a dirt-covered area, which could be a basement or a similar location. The snake occupies a significant portion of the image, stretching from the left side to the right side of the frame.
+USER: exit...

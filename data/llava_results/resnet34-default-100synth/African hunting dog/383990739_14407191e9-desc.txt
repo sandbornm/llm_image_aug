@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a group of four wild animals, likely a herd of antelope or deer, standing together in a grassy field. They appear to be interacting with each other, possibly playing or engaging in social behavior. The animals are spread out across the field, with some closer to the foreground and others further in the background. The scene captures the animals in their natural habitat, enjoying the outdoors and each other's company.
+USER: exit...

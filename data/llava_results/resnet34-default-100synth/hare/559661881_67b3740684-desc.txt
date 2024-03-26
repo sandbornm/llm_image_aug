@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small rabbit walking through a grassy field. The rabbit is surrounded by tall grass, with its ears perked up, possibly listening for any approaching threats. The grassy field extends across the entire image, creating a natural and serene environment for the rabbit.
+USER: exit...

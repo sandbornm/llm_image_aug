@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man sitting in a large, ornate chair, possibly in a lobby or a hotel room. He is wearing a blue jacket and a plaid scarf, giving him a stylish appearance. The chair is positioned in the center of the scene, with the man occupying most of the chair's space.
+
+There are two potted plants in the room, one located on the left side and the other on the right side. Additionally, there is a handbag placed on the floor near the right side of the chair.
+USER: exit...

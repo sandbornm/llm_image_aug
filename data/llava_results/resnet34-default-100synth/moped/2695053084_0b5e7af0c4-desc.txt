@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of people riding motorcycles down a street. There are several motorcycles visible in the scene, with some riders wearing helmets for safety. The riders are spread out along the street, with some closer to the foreground and others further in the background.
+
+In addition to the motorcyclists, there are a few people standing or walking along the street, possibly observing the riders or going about their day. A backpack can be seen on the ground near one of the riders, possibly belonging to one of the people in the scene.
+USER: exit...

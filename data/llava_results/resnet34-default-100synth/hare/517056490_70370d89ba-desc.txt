@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small white rabbit sitting in the snow, surrounded by a snowy landscape. The rabbit appears to be looking at the camera, capturing a moment of curiosity. The snow-covered ground provides a picturesque backdrop for the scene.
+USER: exit...

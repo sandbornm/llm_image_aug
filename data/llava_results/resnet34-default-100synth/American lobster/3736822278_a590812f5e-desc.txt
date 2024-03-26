@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a large blue lobster in their hands. The lobster is placed on the person's lap, with its claws open, and it appears to be a unique blue color. The person is wearing jeans and a blue shirt, and they are holding the lobster with both hands.
+
+In the background, there is another person visible, possibly observing the unique blue lobster or waiting for their turn to interact with it.
+USER: exit...

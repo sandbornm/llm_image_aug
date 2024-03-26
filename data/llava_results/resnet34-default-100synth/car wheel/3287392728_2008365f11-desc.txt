@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image showcases a vintage orange car with its hood open, parked in a garage. The car is a classic muscle car, and it appears to be on display, possibly at a car show. The car is surrounded by other vehicles, including a truck parked nearby.
+
+There are several people in the scene, with some standing close to the car and others scattered around the garage. Some of the people appear to be admiring the classic muscle car, while others are engaged in conversations or observing the other vehicles.
+USER: exit...

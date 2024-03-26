@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a sarong could be mistaken for a stretcher.
+USER: ASSISTANT: The image features a group of men wearing sarongs, which are traditional garments from Southeast Asia. One of the men is holding a stretcher, which is a piece of equipment used for carrying patients or injured individuals. The stretcher is designed to be lightweight and portable, making it easy to transport. In this case, the man holding the stretcher is wearing a sarong, which might be mistaken for a stretcher due to the similar appearance of the two items. The man's attire, combined with the presence of the stretcher, could create confusion about the true nature of the object being carried.
+USER: exit...

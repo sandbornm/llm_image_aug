@@ -1,0 +1,7 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of people gathered around a man lying on the ground, possibly after a fall or an accident. The man is lying on the ground, and several people are attending to him, providing assistance and support. 
+
+There are multiple people in the scene, with some standing close to the man and others further away. A few bottles can be seen scattered around the area, possibly containing water or other beverages for the people present. 
+
+In the background, there is a bicycle parked, and a bench is visible nearby. The scene appears to be taking place on a bridge or a similar outdoor location.
+USER: exit...

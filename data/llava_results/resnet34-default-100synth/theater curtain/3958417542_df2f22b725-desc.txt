@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image shows a large, empty auditorium with a stage and a long curtain. The curtain is made of yellow fabric, giving the space a unique and vibrant appearance. The stage is situated in the center of the auditorium, surrounded by the curtains.
+
+There is a dining table located near the stage, possibly for performers or staff to use during events. Additionally, there are two chairs placed in the auditorium, one closer to the stage and the other further back. The overall atmosphere of the auditorium is empty and quiet, with no people or objects occupying the space.
+USER: exit...

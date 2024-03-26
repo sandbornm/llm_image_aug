@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two dogs standing next to each other, one on the left and the other on the right. The left dog is a white and gray dog, while the right dog is a black and gray dog. Both dogs are wearing collars and are positioned in front of a bush.
+
+In the background, there are two people, one on the left side and the other on the right side of the image. The people are likely the owners or caretakers of the dogs, as they are standing close to them.
+USER: exit...

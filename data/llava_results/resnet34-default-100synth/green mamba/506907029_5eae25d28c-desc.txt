@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a green snake's head, with its eyes wide open. The snake is looking directly at the camera, capturing the viewer's attention. The snake's head is positioned in the center of the frame, and its body is not visible in the image. The focus is on the snake's face, showcasing its unique features and expression.
+USER: exit...

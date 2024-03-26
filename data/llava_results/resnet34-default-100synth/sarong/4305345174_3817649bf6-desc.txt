@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a young woman sitting on a bed, holding a blanket over her face. She appears to be covering her eyes or hiding her face with the blanket. The bed is positioned against a wall, and the room appears to be a bedroom.
+
+There is a clock on the wall, and a cell phone can be seen placed nearby. The woman's position on the bed suggests a sense of privacy or a playful moment.
+USER: exit...

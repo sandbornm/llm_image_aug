@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white truck driving down a dirt road in a rural setting. The truck is positioned in the middle of the scene, and it appears to be a medical truck, possibly an ambulance, as it is traveling down the road. The road is surrounded by a lush green forest, creating a serene and natural atmosphere.
+USER: exit...

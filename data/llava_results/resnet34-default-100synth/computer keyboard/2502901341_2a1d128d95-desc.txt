@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a computer desk with a keyboard and a mouse placed on it. A glass of juice is sitting on the desk, close to the keyboard. The desk occupies a significant portion of the scene, with the keyboard and mouse taking up the majority of the space. The glass of juice is positioned towards the right side of the desk.
+USER: exit...

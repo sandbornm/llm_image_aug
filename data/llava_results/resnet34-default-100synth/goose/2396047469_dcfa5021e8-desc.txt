@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large bird, possibly a goose, flying through the sky with its wings spread wide. The bird is captured in mid-flight, showcasing its impressive wingspan. The bird's wings are spread across the entire width of the image, from the left to the right side. The bird is flying high in the sky, giving the impression of a majestic and powerful creature.
+USER: exit...

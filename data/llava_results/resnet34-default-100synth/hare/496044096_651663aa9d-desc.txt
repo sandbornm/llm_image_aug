@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown and white rabbit standing in a grassy field. The rabbit is surrounded by a variety of plants, including a large green leafy plant and a few yellow flowers. The rabbit appears to be grazing or exploring the area, with its head down and its ears perked up. The scene is set in a lush, green environment, providing a natural habitat for the rabbit.
+USER: exit...

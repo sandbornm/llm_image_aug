@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image captures a coyote running through a snow-covered forest. The coyote is in motion, with its body positioned towards the center of the scene. The snow-covered ground provides a contrasting backdrop to the animal, making it stand out in the image. The forest setting adds a sense of depth and natural beauty to the scene.
+USER: exit...

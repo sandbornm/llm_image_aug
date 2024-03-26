@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a hockey game in progress, with a crowd of people watching the action on the ice. A man is lying on a stretcher, possibly injured, while a group of people, including medical personnel, surround him. The medical team is attending to the injured player, ensuring his safety and well-being.
+
+There are several people in the scene, some of whom are standing close to the stretcher, while others are scattered around the ice. A few individuals can be seen wearing ties, indicating a more formal attire. The overall atmosphere of the scene is focused on the medical attention being provided to the injured player.
+USER: exit...

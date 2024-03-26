@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a small, colorful snake in their hand. The snake is curled up, and it appears to be a baby rattlesnake. The person is holding the snake close to their body, possibly to keep it safe and secure. The scene takes place in a room, with a chair visible in the background.
+USER: exit...

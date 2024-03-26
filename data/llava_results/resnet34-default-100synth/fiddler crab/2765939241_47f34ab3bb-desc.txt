@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of crabs in a muddy area, with some of them standing on top of a dirt mound. There are at least six crabs visible in the scene, with some of them appearing to be in a burrow. The crabs are scattered throughout the muddy area, with some closer to the foreground and others further back. The scene captures the natural habitat of these crustaceans as they interact with their surroundings.
+USER: exit...

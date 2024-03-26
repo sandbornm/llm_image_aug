@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown rabbit sitting in a grassy area, surrounded by a few sticks and branches. The rabbit appears to be looking at the camera, possibly curious about its presence. The scene is set in a natural environment, with the rabbit being the main focus of the image.
+USER: exit...

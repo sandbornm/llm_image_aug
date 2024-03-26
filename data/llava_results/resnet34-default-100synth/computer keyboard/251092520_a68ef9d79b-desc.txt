@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a computer keyboard with a cigarette box placed on top of it. The cigarette box is open, revealing a pack of cigarettes inside. The keyboard occupies a significant portion of the image, with the cigarette box resting on top of it. The scene appears to be a casual, everyday setting where someone might be smoking while using the computer.
+USER: exit...

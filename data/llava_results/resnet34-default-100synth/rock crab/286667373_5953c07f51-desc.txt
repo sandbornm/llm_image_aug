@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a rocky surface with several crabs scattered across it. There are a total of nine crabs, with some of them being small and others larger. The crabs are positioned in various locations on the rock, with some closer to the center and others near the edges. The scene captures the natural habitat of these crabs, showcasing their unique appearance and behavior.
+USER: exit...

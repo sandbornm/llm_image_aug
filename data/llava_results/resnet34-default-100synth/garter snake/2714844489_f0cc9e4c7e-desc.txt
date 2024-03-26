@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dead frog lying on the ground, surrounded by a snake. The snake is coiled around the frog, with its head resting on the frog's body. The scene is set in a wooded area, with the frog and snake positioned on a pile of sticks. The combination of the frog and snake creates an interesting and unusual interaction between the two species.
+USER: exit...

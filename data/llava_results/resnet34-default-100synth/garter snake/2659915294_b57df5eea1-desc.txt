@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a snake, possibly a rattlesnake, lying on the ground in a grassy area. The snake is positioned near the center of the scene, with its body stretched out. The grassy area is surrounded by a dirt ground, giving the scene a natural and serene atmosphere.
+USER: exit...

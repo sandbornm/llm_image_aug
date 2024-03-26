@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman holding a baby in her arms, both of them dressed in pink. The woman is wearing a black shirt and a pink skirt, while the baby is dressed in a white and pink dress. They are both smiling, creating a warm and joyful atmosphere.
+
+In the background, there is a potted plant located on the left side of the scene, adding a touch of greenery to the setting.
+USER: exit...

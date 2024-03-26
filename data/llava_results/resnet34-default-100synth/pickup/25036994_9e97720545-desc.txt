@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white truck parked in a driveway, likely in front of a house. The truck is quite large and has a lifted suspension, giving it a distinct appearance. It is parked next to a building, possibly a house or a garage.
+
+In the vicinity of the truck, there are several potted plants, with one placed near the front of the truck, another close to the middle, and two more towards the right side of the truck. Additionally, there are two dogs in the scene, one located near the middle of the truck and the other closer to the right side.
+USER: exit...

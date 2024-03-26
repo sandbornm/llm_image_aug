@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two large dogs standing next to each other on a concrete floor. One dog is positioned closer to the left side of the scene, while the other dog is on the right side. Both dogs are wearing collars, and they appear to be well-behaved and well-trained.
+
+A person is standing near the dogs, possibly their owner or a trainer, and is holding the leash of the dog on the right. The scene suggests that the dogs are being walked or trained in a controlled environment, such as a dog training facility or a park.
+USER: exit...

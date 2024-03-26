@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a green snake, likely a boa constrictor, sitting on a branch. The snake is curled up and appears to be looking at the camera. The branch is positioned in the middle of the scene, and the snake occupies a significant portion of the image, stretching from the left to the right side. The snake's presence in the scene creates a sense of curiosity and fascination.
+USER: exit...

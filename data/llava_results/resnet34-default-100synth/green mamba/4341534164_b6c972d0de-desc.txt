@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large green snake with a yellowish hue, coiled up and resting on a surface. The snake's body is covered in a pattern of yellow and green scales, giving it a striking appearance. The snake is positioned near a green plant, which can be seen in the background. The scene captures the snake's natural habitat and its unique coloration.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a colorful parrot sitting on a person's hand, likely enjoying the interaction. The parrot is positioned in the center of the scene, with its beak close to the person's finger. The person's hand is visible in the foreground, while the parrot's wings are spread out, giving a sense of the bird's size and vibrant colors.
+USER: exit...

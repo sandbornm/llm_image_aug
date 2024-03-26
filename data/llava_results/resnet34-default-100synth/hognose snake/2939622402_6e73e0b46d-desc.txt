@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, long, and skinny snake with a patterned body, lying on a dirt ground. The snake is positioned in the middle of the scene, with its body stretched out and occupying a significant portion of the ground. The snake appears to be in a relaxed state, possibly resting or observing its surroundings.
+USER: exit...

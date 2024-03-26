@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a snake lying on a leaf-covered ground, surrounded by grass and leaves. The snake is positioned in the center of the scene, with its body stretched out and occupying a significant portion of the image. The surrounding area is covered in leaves and grass, creating a natural and serene environment for the snake.
+USER: exit...

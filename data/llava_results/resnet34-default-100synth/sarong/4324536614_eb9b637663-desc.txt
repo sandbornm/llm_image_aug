@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a runway show featuring a woman in a green dress holding a pink umbrella. She is walking down the runway, possibly participating in a fashion show. There are several other people in the scene, including a man in a red jacket and a woman in a red dress, both of whom are also walking on the runway.
+
+In addition to the people, there are a few handbags visible in the scene. One handbag is placed near the center of the image, while another is located closer to the right side. The third handbag is situated near the bottom right corner of the image.
+USER: exit...

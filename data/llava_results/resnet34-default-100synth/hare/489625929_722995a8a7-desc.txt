@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, white rabbit standing in a grassy field. The rabbit appears to be looking at something, possibly a person or another animal, as it is facing away from the camera. The field is covered in grass, providing a natural and open environment for the rabbit to explore.
+USER: exit...

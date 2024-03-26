@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large glass jar filled with a yellow liquid, which is likely a snake's body. The snake is curled up inside the jar, and its body is visible from the neck to the tail. The jar is placed on a table, and the snake appears to be in a relaxed state. The jar is positioned in the center of the image, with the snake occupying most of the space within it.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image shows a close-up of a person's arm with a bloody wound, likely from a surgical procedure. The wound is covered in blood, and a metal pin is sticking out of it. The arm is also pierced with a large number of pins, which are scattered throughout the wound. The scene is quite disturbing and highlights the pain and discomfort associated with such injuries.
+USER: exit...

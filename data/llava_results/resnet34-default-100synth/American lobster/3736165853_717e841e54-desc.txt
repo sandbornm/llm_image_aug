@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a young man wearing a white shirt, standing in a kitchen and holding a large lobster in his hands. The lobster is positioned in the center of the scene, with the man's hands on either side of it. The kitchen appears to be well-equipped, as there are multiple knives visible in the background, likely used for preparing the lobster. The man seems to be proudly displaying the lobster, possibly after a successful catch or purchase.
+USER: exit...

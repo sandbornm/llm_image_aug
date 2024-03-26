@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden cutting board with two cooked lobsters placed on it. The lobsters are accompanied by a lemon, which is positioned to the right of the cutting board. A knife is also visible on the right side of the cutting board, likely used for cutting the lobsters. The scene appears to be set for a meal, with the lobsters and lemon ready to be enjoyed.
+USER: exit...

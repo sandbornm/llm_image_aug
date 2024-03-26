@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a large auditorium filled with people, likely attending a concert or a performance. The audience is seated on various chairs arranged throughout the room, with some chairs closer to the stage and others further away. The stage is adorned with a large screen, which displays the event's content.
+
+In the foreground, there is a group of people sitting close to the stage, while others are scattered around the room. Some people are seated closer to the center of the auditorium, while others are situated near the edges. The overall atmosphere of the scene is one of excitement and anticipation for the event taking place.
+USER: exit...

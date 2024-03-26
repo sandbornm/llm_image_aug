@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black leather purse with a green strap. The purse is placed on a surface, possibly a table, and appears to be in good condition. The strap is wrapped around the purse, and there are no signs of wear or damage. The purse is likely a handbag, as it is designed to be carried by hand.
+USER: exit...

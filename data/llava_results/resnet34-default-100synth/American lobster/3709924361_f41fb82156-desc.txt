@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden pier with four lobster traps placed on it. Each lobster trap is designed to hold a lobster, and they are all sitting on the pier. The traps are arranged in a row, with one on the left side, one in the middle, and two on the right side of the pier. The arrangement creates an organized and visually appealing scene.
+USER: exit...

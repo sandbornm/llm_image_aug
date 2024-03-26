@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image consists of two separate photographs, each capturing a man in a different situation. In the first photograph, the man is standing in a room, holding a vacuum cleaner and cleaning the floor. In the second photograph, the man is taking a selfie in front of a mirror, capturing his reflection.
+
+The room in the first photograph has a bed and a TV, while the second photograph shows a mirror with a few books on it. The man in the second photograph is wearing a black shirt.
+USER: exit...

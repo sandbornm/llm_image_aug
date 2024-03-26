@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a vintage red pickup truck parked in a driveway. The truck has a wooden bed, and the back of the truck is open, revealing a sale sign. The truck is parked next to a house, and a car is visible in the background.
+
+There are two people in the scene, one standing near the left side of the truck and the other person closer to the right side. Additionally, there are two potted plants, one located near the center of the scene and the other one further to the right.
+USER: exit...

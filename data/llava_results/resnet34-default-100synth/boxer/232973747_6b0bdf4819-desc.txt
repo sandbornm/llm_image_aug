@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large brown dog standing on a dirt ground, possibly in a fenced area. The dog appears to be looking at something, possibly a person or another animal. The dog is positioned in the middle of the scene, with its body facing the viewer.
+
+In the background, there are two trucks visible, one on the left side and the other on the right side of the image. Additionally, there is a bench located towards the right side of the scene.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man and a woman standing next to a grill, preparing food together. The man is on the left side of the grill, while the woman is on the right side. They are both focused on the food they are cooking, which includes chicken.
+
+The scene also includes a dining table located in the background, and a chair placed near the table. A potted plant can be seen in the foreground, adding a touch of greenery to the scene. Additionally, there are two cups placed on the table, possibly for enjoying a drink while grilling.
+USER: exit...

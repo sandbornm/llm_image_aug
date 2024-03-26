@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large pot filled with food, placed on a table. The pot is accompanied by a spoon, which is resting on the table near the pot. The table is surrounded by several chairs, with one chair positioned close to the left side of the table, another chair on the right side, and two chairs on the far left and far right sides of the table.
+
+In addition to the main pot and spoon, there are two bowls on the table, one located near the left side and the other near the right side. A cup can also be seen on the right side of the table. The scene appears to be set outdoors, with a dining table and chairs arranged for a meal.
+USER: exit...

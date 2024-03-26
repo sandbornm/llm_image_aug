@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman wearing a gas mask, likely for protection or as part of a costume. She is sitting on a chair, which is positioned near the center of the scene. The woman is looking directly at the camera, capturing her attention.
+
+In the background, there is a couch located towards the right side of the image. The woman's gas mask is clearly visible, covering a significant portion of her face.
+USER: exit...

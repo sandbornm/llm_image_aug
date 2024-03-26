@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown and white dog sitting on a couch, looking up at the camera. The dog is comfortably positioned on the couch, occupying a significant portion of the scene. The couch is located in the center of the image, with the dog sitting on top of it.
+USER: exit...

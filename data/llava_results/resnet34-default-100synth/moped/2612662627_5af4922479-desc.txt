@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a yellow scooter parked on a sidewalk next to a street. The scooter is positioned close to the curb, and it appears to be parked on a brick walkway. The scooter is the main focus of the scene, with no other vehicles or people visible in the image.
+USER: exit...

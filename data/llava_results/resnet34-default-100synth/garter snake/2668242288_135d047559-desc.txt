@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a snake lying on the ground, surrounded by green plants and leaves. The snake is positioned in the middle of the scene, with its body stretched out. The plants and leaves are scattered throughout the area, with some closer to the snake and others further away. The scene appears to be a natural habitat for the snake, with the plants providing a sense of camouflage and shelter.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a baby lying in a white and lace-covered crib, which is placed in a room. The baby appears to be sleeping peacefully, surrounded by a cozy and comfortable environment. The crib is positioned near a window, allowing natural light to enter the room.
+
+In the room, there is a chair located close to the crib, and a bottle can be seen placed nearby. Additionally, a clock is mounted on the wall, providing a sense of time to the room's occupants.
+USER: exit...

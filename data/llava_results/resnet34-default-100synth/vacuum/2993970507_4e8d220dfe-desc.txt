@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a red vacuum cleaner sitting next to a brick wall. The vacuum cleaner is positioned on the left side of the image, while the brick wall is on the right. The vacuum cleaner appears to be a red and grey model, and it is placed on the ground, ready for use.
+USER: exit...

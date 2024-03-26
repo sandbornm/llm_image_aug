@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large roasting spit with a whole pig on it, being cooked on a grill. The pig is placed in the center of the scene, surrounded by a few chairs and a dining table. The chairs are positioned around the table, with one on the left side, one on the right side, and another one further back. The dining table is located on the right side of the scene, extending from the back to the front. The pig is being cooked on a spit, which is a traditional method of cooking pork.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, empty theater with a stage and a large screen, likely used for presentations or performances. The stage is adorned with a curtain, which is currently drawn down, covering the screen. The theater appears to be empty, with no people visible in the scene.
+
+There are several chairs placed around the theater, some closer to the stage and others further away. The chairs are arranged in various positions, indicating that the theater is ready for an event or performance to take place.
+USER: exit...

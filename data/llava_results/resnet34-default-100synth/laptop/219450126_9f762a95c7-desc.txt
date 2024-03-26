@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black laptop computer placed on a bed, with a keyboard and a mouse beside it. The laptop is open, and the keyboard and mouse are positioned in front of it, ready for use. The bed has a comforter and a pillow, creating a cozy and comfortable environment for working or studying.
+USER: exit...

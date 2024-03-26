@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman standing on a street, surrounded by trees and parked cars. She is wearing a backpack and appears to be posing for a picture. There are several other people in the scene, some of whom are walking or standing near the woman.
+
+In addition to the people, there are multiple bicycles parked or ridden by individuals in the scene. A car is also visible, parked on the side of the street. The overall atmosphere seems to be a lively and bustling urban environment.
+USER: exit...

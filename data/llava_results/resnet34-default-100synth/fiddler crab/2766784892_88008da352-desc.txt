@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a crab on a dirt ground, with its claws open. The crab is surrounded by a field of grass, and it appears to be dead. The crab's body is located towards the left side of the image, while its claws are spread out across the scene. The grassy area surrounding the crab extends from the center of the image towards the right side.
+USER: exit...

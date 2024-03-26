@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, colorful snake coiled up on a dirt surface. The snake is positioned in the center of the scene, with its body curled up and its head tucked under its body. The snake's pattern is a mix of orange and black, making it visually striking. The dirt surface provides a natural habitat for the snake, and it appears to be resting or hiding in the area.
+USER: exit...

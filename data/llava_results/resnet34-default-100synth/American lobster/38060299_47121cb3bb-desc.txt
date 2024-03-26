@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up view of a large red lobster sitting on a plate, with its claws open. The lobster appears to be in the process of being cooked, as it is placed on a table. The plate is positioned near the center of the image, and the lobster occupies most of the frame.
+USER: exit...

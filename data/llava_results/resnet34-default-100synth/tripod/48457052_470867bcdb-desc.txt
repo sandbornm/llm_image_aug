@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two men standing in front of a building, possibly a church. One of the men is holding a camera, while the other is holding a tripod. They appear to be setting up for a photoshoot or filming session.
+
+There are several suitcases in the scene, with one near the left side of the image and another near the right side. A handbag is also visible on the ground, closer to the left side. The men seem to be focused on their task, and their equipment is well-organized for the upcoming project.
+USER: exit...

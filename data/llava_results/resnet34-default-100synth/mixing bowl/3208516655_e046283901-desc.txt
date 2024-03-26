@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a kitchen counter with a microwave oven sitting on top of it. The microwave is open, revealing its interior. Next to the microwave, there is a bowl placed on the counter. 
+
+In addition to the microwave and bowl, there are several other items on the counter. A cup is located towards the right side of the counter, while a spoon is placed closer to the center. A bottle can be seen on the left side of the counter, and a second cup is situated near the left edge of the counter.
+USER: exit...

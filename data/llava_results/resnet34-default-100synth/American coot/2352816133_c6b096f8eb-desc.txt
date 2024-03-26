@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a bird, likely a duck, flying over a body of water. The bird is captured in mid-air, flying above the water's surface. The scene is set against a backdrop of the ocean, creating a serene and natural atmosphere.
+USER: exit...

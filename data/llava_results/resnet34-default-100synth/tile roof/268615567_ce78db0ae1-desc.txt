@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white house with a red roof, undergoing a renovation process. The house has a chimney and a ladder, indicating that the work is focused on the roof area. The ladder is placed on the roof, and there are scaffolding materials present, suggesting that the house is being worked on.
+
+In addition to the house, there is a car parked in the background, and a person can be seen standing near the left side of the image. The scene captures the ongoing work on the house and the presence of the person involved in the renovation process.
+USER: exit...

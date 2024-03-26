@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small crab, likely a blue crab, walking across a sandy beach. The crab is surrounded by a lush green plant, which appears to be a type of seaweed. The scene is set in a shallow body of water, with the crab moving across the sandy surface. The crab's movement is captured in the image, providing a glimpse of its natural behavior.
+USER: exit...

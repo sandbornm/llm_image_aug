@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a desktop computer with a monitor and keyboard placed on a table. The monitor is turned on, displaying a variety of images and icons. The keyboard is positioned in front of the monitor, ready for use.
+
+In the background, there are two chairs, one on the left side and the other on the right side of the table. Additionally, there is a cell phone placed on the table, slightly to the right of the keyboard.
+USER: exit...

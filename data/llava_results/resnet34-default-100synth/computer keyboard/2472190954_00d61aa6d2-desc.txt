@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features an old-fashioned computer keyboard sitting on a concrete surface. The keyboard is white and black, with a total of 12 keys visible. It appears to be an old-style keyboard, possibly from the 1980s. The keyboard is positioned in the center of the image, occupying a significant portion of the scene.
+USER: exit...

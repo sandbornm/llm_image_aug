@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white plate with a waffle and a scoop of ice cream on top. The waffle is placed in the center of the plate, and the ice cream is positioned slightly to the left of the waffle.
+
+In addition to the main dish, there are two bowls on the table. One bowl is located on the right side of the plate, while the other is situated on the left side. A spoon can be seen resting on the right side of the plate, likely used for eating the ice cream.
+USER: exit...

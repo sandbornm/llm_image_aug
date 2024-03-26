@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black motorcycle parked on the side of a street. The motorcycle is positioned near the center of the scene, and there are several cars parked in the background. Some cars are parked closer to the left side of the image, while others are parked further back on the right side.
+
+In addition to the motorcycle and cars, there are two people visible in the scene. One person is standing near the left edge of the image, while the other person is located closer to the center. A handbag can also be seen placed on the ground near the center of the image.
+USER: exit...

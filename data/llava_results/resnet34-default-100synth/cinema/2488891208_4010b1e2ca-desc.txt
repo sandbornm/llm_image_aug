@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a snowy night scene with a person walking on a sidewalk near a theater. The person is wearing a black coat and appears to be walking towards the theater. The theater is illuminated, and its name is displayed on the front.
+
+There are several other people in the scene, some of them walking or standing near the theater. A bench can be seen on the sidewalk, and a car is parked nearby. The overall atmosphere of the image is cold and quiet, with the snow-covered ground and the darkness of the night creating a serene and peaceful setting.
+USER: exit...

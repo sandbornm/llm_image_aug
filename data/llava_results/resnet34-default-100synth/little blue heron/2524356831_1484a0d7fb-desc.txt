@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a blue heron standing on a tree branch surrounded by green leaves. The heron is positioned near the center of the scene, with its long neck stretched out. The tree branch it is standing on is located near the top of the image.
+
+There are several other branches visible in the scene, with some extending from the main branch and others extending from other branches. The overall atmosphere of the image is serene and natural, showcasing the beauty of the heron in its natural habitat.
+USER: exit...

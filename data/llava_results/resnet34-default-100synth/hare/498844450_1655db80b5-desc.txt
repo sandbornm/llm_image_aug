@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small brown and white bunny sitting on the side of a road, possibly in a parking lot. The bunny is looking at the camera, capturing the viewer's attention. The scene also includes a fence nearby, which adds to the overall setting.
+
+In the background, there is a car parked further away from the bunny, and a bench can be seen in the middle of the scene. Additionally, there is a power line running above the area, providing electricity to the surrounding area.
+USER: exit...

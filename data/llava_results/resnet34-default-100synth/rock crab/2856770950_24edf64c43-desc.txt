@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small red crab sitting on a rock in a body of water. The crab is positioned near the center of the scene, surrounded by a calm and serene environment. The water appears to be a mix of green and brown, creating a visually interesting scene. The rock on which the crab is sitting is located near the left side of the image, with the water extending to the right side.
+USER: exit...

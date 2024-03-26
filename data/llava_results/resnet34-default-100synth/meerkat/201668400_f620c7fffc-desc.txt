@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, brown and white, furry animal standing upright in a dirt field. The animal appears to be a small, furry, and possibly a young zebra or a hyena. It is standing in the middle of the field, possibly looking up at the sky. The field is surrounded by a dirt surface, and the animal seems to be the main focus of the scene.
+USER: exit...

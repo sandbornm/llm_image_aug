@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a delicious dessert in a white plastic container, consisting of a waffle covered in chocolate sauce. The waffle is placed on top of a plate, and the container is filled with the dessert. The chocolate sauce is drizzled all over the waffle, making it look even more tempting. The close-up view of the dessert highlights its mouth-watering appearance.
+USER: exit...

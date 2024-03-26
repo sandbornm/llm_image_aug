@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a pair of blue jeans with a gold button on the side pocket. The jeans are folded, and the pocket is open, revealing the button. The button is located towards the top right corner of the pocket. The jeans are in a casual setting, possibly on a bed or a similar surface.
+USER: exit...

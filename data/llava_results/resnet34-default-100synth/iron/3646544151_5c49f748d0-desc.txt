@@ -1,0 +1,7 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two men in a room, working together on a project. One man is standing near a table, while the other is sitting at a desk. They are both focused on their tasks, with one man using a computer and the other using a pair of scissors.
+
+The room is well-equipped with various items, including a TV mounted on the wall, a refrigerator, and a microwave. There are also several books scattered around the room, some on the desk and others on the floor. A bottle can be seen on the desk, possibly containing a beverage or a cleaning solution.
+
+In addition to the main two men, there is another person visible in the room, standing near the left side of the image.
+USER: exit...

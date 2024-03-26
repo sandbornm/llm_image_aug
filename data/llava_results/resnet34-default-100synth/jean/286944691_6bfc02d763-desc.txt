@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two people sitting in a room, with one person sitting on a couch and the other person sitting on a chair. Both individuals are wearing jeans, and the person on the couch is holding a beer. The scene appears to be casual and relaxed, with the two people enjoying each other's company.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden deck with two large lobsters lying on it. The lobsters are positioned close to each other, occupying a significant portion of the deck's surface. They are both wearing rubber bands on their claws, possibly to prevent them from escaping or to keep them from damaging the deck. The scene captures the lobsters in their natural habitat, showcasing their size and strength.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman holding a broken mirror up to her face. The mirror is placed in front of her, and she is looking at her reflection. The mirror is cracked, which adds a unique and interesting element to the scene. The woman appears to be smiling, possibly enjoying the moment or capturing a selfie with the broken mirror.
+USER: exit...

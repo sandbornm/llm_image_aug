@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person wearing a gas mask, standing next to a small doll wearing a gas mask. The person is positioned on the left side of the scene, while the doll is on the right side. The gas masks on both the person and the doll are prominently displayed, emphasizing the theme of the scene. The person is also holding a gas mask, further emphasizing the connection between the two individuals.
+USER: exit...

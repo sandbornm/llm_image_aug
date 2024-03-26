@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, long, and colorful snake coiled up on the ground, possibly in a sandy area. The snake's body is curled up, and it appears to be resting or possibly preparing to strike. The snake's patterned skin adds to its striking appearance. The scene is set in a natural environment, with the snake being the main focus of the image.
+USER: exit...

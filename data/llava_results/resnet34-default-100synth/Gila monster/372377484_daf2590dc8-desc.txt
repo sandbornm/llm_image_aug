@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large rock with a small opening, possibly a cave or a crevice, leading to a darker area. A snake is resting in the shade of the rock, possibly seeking shelter or a cooler spot. The snake is positioned near the center of the image, occupying a significant portion of the rock's surface. The rock's texture appears to be a combination of sand and stone, creating a unique and interesting visual effect.
+USER: exit...

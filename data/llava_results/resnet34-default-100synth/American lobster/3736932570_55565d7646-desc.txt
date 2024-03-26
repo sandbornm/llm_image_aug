@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden table with a blue lobster on it. The lobster is lying on its back, and its claws are tucked under its body. The table appears to be a cutting board, and the lobster is positioned in the center of the board. 
+
+In addition to the lobster, there are two knives on the table. One knife is located on the left side of the lobster, while the other knife is on the right side. The presence of these knives suggests that the lobster is being prepared for cooking.
+USER: exit...

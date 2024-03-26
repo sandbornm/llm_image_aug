@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: In the image, a man is proudly holding a large blue lobster in his hands, likely at a seafood market or a similar location. He is wearing a white shirt and a hat, adding to the casual atmosphere of the scene. The lobster is prominently displayed, occupying a significant portion of the image. The man appears to be enjoying the moment, possibly preparing to cook or sell the lobster.
+USER: exit...

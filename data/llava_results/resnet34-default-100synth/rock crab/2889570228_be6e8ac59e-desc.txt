@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small crab in a body of water, possibly a pond or a lake. The crab is walking across the water, and its reflection can be seen in the water, creating a unique visual effect. The scene is set against a backdrop of rocks, which adds to the natural and serene atmosphere of the image.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a group of motorcycles parked on a brick sidewalk. There are three motorcycles in total, with one prominently placed in the center of the scene, another towards the left side, and the third one on the right side.
+
+In addition to the motorcycles, there are two cars parked nearby. One car is located on the right side of the scene, while the other car is parked further back on the left side. The scene also includes a person standing near the center of the image, possibly admiring the motorcycles or just passing by.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person holding a pair of crabs in their hand. The crabs are small and black, with one being slightly larger than the other. The person's hand is positioned in the center of the scene, with the crabs resting on their palm. The scene appears to be set in a natural environment, possibly near a body of water.
+USER: exit...

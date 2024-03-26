@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a zoo enclosure with two monkeys, one of which is swinging from a tree branch. The monkey is positioned on the left side of the enclosure, while the other monkey is on the right side, sitting on a fence. 
+
+The enclosure is surrounded by a fence, and there are multiple trees in the background, providing a natural environment for the monkeys. The scene captures the monkeys' playful and curious behavior as they interact with their surroundings.
+USER: exit...

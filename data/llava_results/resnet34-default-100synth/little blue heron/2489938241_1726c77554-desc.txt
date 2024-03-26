@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large bird standing on a dirt bank near a body of water. The bird is walking along the edge of the water, possibly searching for food or exploring its surroundings. The bird's presence adds a sense of life and movement to the scene.
+USER: exit...

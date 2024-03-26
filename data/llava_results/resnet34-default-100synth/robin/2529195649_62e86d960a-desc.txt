@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a bird, likely a pigeon, sitting in a fountain filled with water. The bird appears to be enjoying the water, possibly drinking or bathing. The fountain is located in a courtyard, surrounded by a few cars parked nearby.
+
+There are two cars on the left side of the fountain, one closer to the front and the other further back. On the right side, there are three cars parked, with one being closer to the fountain and the other two positioned further away.
+USER: exit...

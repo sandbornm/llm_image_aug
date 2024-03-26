@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a man and a woman standing next to a dining table, which has a birthday cake on it. The man is wearing a Hawaiian shirt, and they both seem to be enjoying the celebration. The table is adorned with a few bottles, cups, and a knife, suggesting that the guests are ready to enjoy the cake.
+
+There are several other people in the background, some of whom are also wearing Hawaiian shirts. The scene appears to be a lively and festive gathering, with everyone dressed up and ready to partake in the celebration.
+USER: exit...

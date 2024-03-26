@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white ambulance parked in a parking lot, likely in front of a building. The ambulance is parked next to a metal fence, and there are several people around the vehicle. One person is standing close to the ambulance, while two others are located further away.
+
+The parking lot is surrounded by a few cars, with one car parked behind the ambulance and another car positioned to the left. The scene suggests that the ambulance might be parked temporarily, possibly for a break or waiting for an emergency call.
+USER: exit...

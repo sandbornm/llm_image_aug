@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of people gathered around a car, with some of them attending to a person lying on the ground. The car is parked on the side of the road, and it appears to be an ambulance. The people are standing around the car, with some of them closer to the car and others further away.
+
+In the scene, there are multiple cars visible, including the one the people are attending to. Additionally, there are two traffic lights, one near the center of the image and another towards the right side. A stop sign is also present in the scene, located on the left side of the image.
+USER: exit...

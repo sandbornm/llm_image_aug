@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a caged animal, possibly a monkey or a gorilla, sitting inside a cage. The animal is looking out through the bars of the cage, possibly seeking attention or interaction. The cage is made of metal, and the animal appears to be the main focus of the scene.
+USER: exit...

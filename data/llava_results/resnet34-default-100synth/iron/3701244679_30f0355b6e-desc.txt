@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman taking a selfie using a mirror. She is standing in front of the mirror, capturing her reflection. The mirror is positioned on a table, and the woman is holding a camera in her hand to take the photo. 
+
+In the background, there is a potted plant, adding a touch of greenery to the scene. Additionally, there is a cell phone placed on the table, possibly used for capturing the photo or for other purposes.
+USER: exit...

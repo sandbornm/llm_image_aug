@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a grill with a piece of meat, possibly a chicken, cooking on the grill. The meat is placed on a metal rack, which is situated in the middle of the grill. The grill is located outdoors, possibly in a backyard.
+
+In the background, there are two potted plants, one on the left side and the other on the right side of the image. Additionally, there are two chairs visible in the scene, one located near the left side of the image and the other near the right side.
+USER: exit...

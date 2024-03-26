@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a herd of wild animals, specifically a group of deer, in a grassy field. There are at least 14 deer in the scene, scattered across the field, with some closer to the foreground and others further in the background. The deer are grazing and roaming around the field, creating a sense of a natural habitat. The scene captures the beauty of these animals in their natural environment.
+USER: exit...

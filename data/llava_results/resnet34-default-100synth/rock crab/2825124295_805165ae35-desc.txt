@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white bucket filled with a variety of crabs. The bucket is placed on a table, and the crabs are arranged in different positions, some sitting on top of each other. There are at least 13 crabs visible in the bucket, with some being larger and others smaller. The crabs are spread throughout the bucket, with some located towards the top, middle, and bottom areas. The scene suggests that the crabs are being prepared for cooking or are being displayed for sale.
+USER: exit...

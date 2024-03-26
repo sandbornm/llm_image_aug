@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a beach scene with a large number of crabs scattered across the sand. Some of the crabs are close to the water, while others are further away. The crabs are of various sizes, and they are spread out throughout the scene. The beach appears to be a popular spot for these crabs to gather and interact with one another.
+USER: exit...

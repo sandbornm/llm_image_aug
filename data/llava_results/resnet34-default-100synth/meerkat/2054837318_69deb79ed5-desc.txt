@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a young, small, and furry animal, likely a hyena or a similar species, with a dirty face. The animal appears to be looking at the camera, capturing its attention. The scene takes place in a dirt area, which might be a part of a zoo or a natural habitat. The animal's face is covered in dirt, giving it a somewhat dirty appearance.
+USER: exit...

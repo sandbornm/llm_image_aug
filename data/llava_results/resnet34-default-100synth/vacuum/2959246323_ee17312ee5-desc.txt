@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, industrial-sized vacuum cleaner with a long hose attached to it. The vacuum cleaner is being used to clean a large, flat surface, such as a table or a countertop. The hose is positioned at the edge of the surface, and the vacuum cleaner is actively sucking up dirt and debris.
+
+The vacuum cleaner is located towards the left side of the image, and the large surface it is cleaning spans across the majority of the scene.
+USER: exit...

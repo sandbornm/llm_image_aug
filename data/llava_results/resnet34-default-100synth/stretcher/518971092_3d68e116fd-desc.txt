@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a scene where a man is being lifted out of a car, possibly by paramedics or other medical personnel. The car is open, and the man is being carefully placed on a stretcher. There are several people in the scene, including the man being lifted, the person lifting him, and others who may be assisting or observing the situation.
+
+In the background, there are two cars visible, one on the left side and another on the right side of the image. A tie can be seen hanging on the left side of the scene, possibly belonging to one of the people present.
+USER: exit...

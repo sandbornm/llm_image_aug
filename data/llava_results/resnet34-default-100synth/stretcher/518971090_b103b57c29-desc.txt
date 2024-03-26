@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of people gathered around a car, with one man lying on the back of the vehicle. There are several people standing around the car, some of them possibly assisting the man lying on the back. The car is parked on the side of the road, and the scene appears to be a medical emergency or a rescue operation.
+
+In addition to the people and the car, there is a handbag visible in the scene, possibly belonging to one of the individuals present. The overall atmosphere suggests a sense of urgency and cooperation among the people involved in the situation.
+USER: exit...

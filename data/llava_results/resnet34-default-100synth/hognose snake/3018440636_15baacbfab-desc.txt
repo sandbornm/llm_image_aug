@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large, long, and brown snake coiled up on the ground, surrounded by dry grass and rocks. The snake appears to be curled up and resting on the ground, possibly in a field or a similar environment. The scene captures the snake's natural habitat and its behavior.
+USER: exit...

@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a baby lying in a crib, surrounded by a white blanket. The baby appears to be sleeping peacefully, with a small smile on its face. The crib is placed in a room, and there is a chair nearby, possibly for the baby's caregiver to sit and watch over the child. The room also has a TV mounted on the wall, providing entertainment for the baby when they are awake.
+USER: exit...

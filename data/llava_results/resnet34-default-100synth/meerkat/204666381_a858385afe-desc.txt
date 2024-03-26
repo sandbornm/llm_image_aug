@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, furry animal, possibly a hyena or a fox, sitting on a tree branch. The animal appears to be looking at the camera, capturing the viewer's attention. The scene is set in a rocky environment, with the animal perched on the branch in the middle of the frame.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features three women standing next to each other, posing for a picture. They are all dressed in colorful, flowing garments, which include long skirts and dresses. The women are standing in front of a wall, possibly in a room with a potted plant nearby.
+
+The women are positioned in a way that they are all visible in the picture, with one woman on the left, another in the middle, and the third on the right side. Their outfits and the overall atmosphere of the image suggest a celebration or a special occasion.
+USER: exit...

@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, light green scooter parked on the side of a street. The scooter is positioned near a payphone, which is located on the sidewalk. The street is lined with traffic lights, with one on the left side and another on the right side of the scooter.
+
+In the background, there are a few cars parked along the street, with one car on the left side, another car further back on the right side, and a third car in the middle of the scene. The scene appears to be set at night, as the scooter and the payphone are illuminated by streetlights.
+USER: exit...

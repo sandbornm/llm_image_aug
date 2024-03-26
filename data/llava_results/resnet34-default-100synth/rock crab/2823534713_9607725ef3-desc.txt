@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a frog's face, with its eyes looking directly at the camera. The frog's face is covered in a layer of dirt, giving it a unique appearance. The frog is positioned in the center of the image, occupying a significant portion of the frame. The focus of the image is on the frog's face, capturing its intricate features and the dirt on its skin.
+USER: exit...

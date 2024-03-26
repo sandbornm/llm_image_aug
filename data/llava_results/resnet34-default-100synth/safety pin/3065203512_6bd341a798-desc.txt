@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large roasted turkey with its legs and wings spread out, placed on a table. The turkey is covered in a shiny silver foil, which is likely used for cooking purposes. The turkey is the main focus of the image, occupying a significant portion of the table.
+
+In addition to the turkey, there are a few other items on the table. A bottle can be seen on the left side of the table, and a cup is located near the top left corner. There is also a person partially visible in the background, standing near the top left corner of the image.
+USER: exit...

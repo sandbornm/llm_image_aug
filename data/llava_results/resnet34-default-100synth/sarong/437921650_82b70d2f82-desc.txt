@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a shirtless man standing in a room, wearing a white sheet wrapped around his waist. He appears to be posing for a picture, possibly in a hotel room. The man is holding a cell phone in his hand, possibly capturing the moment.
+
+The room has a few other items, such as a bottle located near the center of the scene and a remote control placed towards the right side. Additionally, there is a book situated on the left side of the room, and a cup can be seen on the right side.
+USER: exit...

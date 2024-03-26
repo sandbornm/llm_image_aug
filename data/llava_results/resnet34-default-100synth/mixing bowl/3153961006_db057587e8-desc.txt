@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dining table with a large tray filled with various seafood items, including several crabs and lobsters. The tray is placed in the center of the table, surrounded by chairs. 
+
+There are three people in the scene, with one person on the left side of the table, another on the right side, and the third person sitting at the far end of the table. The table setting includes multiple cups, bowls, and a bottle, indicating that the people are enjoying a meal together.
+USER: exit...

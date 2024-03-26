@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small bird perched on a rock near a body of water. The bird is sitting on the rock, looking out over the water, possibly observing its surroundings or searching for food. The scene is serene, with the bird being the main focus of the image.
+USER: exit...

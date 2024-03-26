@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two dogs sitting on a couch, playfully interacting with each other. One dog is on the left side of the couch, while the other dog is on the right side. Both dogs are holding toys in their mouths, with one dog having a toy in its mouth and the other dog having a toy in its mouth as well. The scene appears to be a fun and relaxed moment between the two dogs.
+USER: exit...

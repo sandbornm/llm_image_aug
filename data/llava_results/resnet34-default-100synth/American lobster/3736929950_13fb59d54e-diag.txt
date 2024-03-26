@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a American lobster could be mistaken for a lorikeet.
+USER: ASSISTANT: The image of the American lobster, which is a large blue crustacean, could be mistaken for a lorikeet due to the presence of long, blue, and white whiskers on the lobster's face. These whiskers resemble the feathers of a lorikeet, which is a small, colorful bird known for its vibrant plumage. The similarities in color and the presence of whiskers on the lobster's face can create confusion and make it appear like a lorikeet at first glance.
+USER: exit...

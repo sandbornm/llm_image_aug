@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person sitting at a dining table, preparing to eat a delicious meal consisting of a large lobster and a crab. The person is using a knife to cut the lobster, while the crab is placed on the table next to it. The dining table occupies most of the scene, and there is a chair located on the right side of the table.
+
+Additionally, there are two cups on the table, one near the top right corner and the other near the top left corner. A bottle can also be seen on the table, situated near the top left corner.
+USER: exit...

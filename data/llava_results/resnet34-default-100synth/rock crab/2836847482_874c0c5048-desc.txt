@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a close-up of a crab with its claws open, sitting on a rock. The crab is positioned in the center of the scene, occupying a significant portion of the image. The rock appears to be wet, possibly due to the presence of water or a recent rainfall. The crab's claws are open, revealing its inner workings and making it an interesting and detailed view of the creature.
+USER: exit...

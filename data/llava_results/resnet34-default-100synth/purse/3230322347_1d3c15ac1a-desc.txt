@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small, white purse with a floral pattern on it. The purse is open and is being held by a person, who is visible in the top left corner of the image. The purse is placed on a wooden table, which occupies the majority of the scene. The floral pattern on the purse adds a touch of elegance and style to the overall appearance.
+USER: exit...

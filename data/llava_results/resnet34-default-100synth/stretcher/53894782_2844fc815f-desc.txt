@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a hospital room with a hospital bed positioned against the wall. The bed is equipped with a metal frame and has a white sheet covering it. The room also has a chair located near the bed, and a TV is mounted on the wall above the bed.
+
+In addition to the bed and chair, there are several medical items scattered around the room. A few bottles can be seen on the left side of the bed, while a cup is placed on the right side. A couple of books are also present, one near the center of the room and the other closer to the right side. A remote control can be found on the right side of the bed, and a handbag is placed near the left side of the room.
+USER: exit...

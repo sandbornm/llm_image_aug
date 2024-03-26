@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features two small brown rabbits in a grassy field, surrounded by a lush green landscape. One rabbit is located on the left side of the field, while the other is on the right side. The rabbits appear to be walking or running through the grass, possibly engaging in playful behavior.
+
+The field is filled with yellow flowers, adding a vibrant touch to the scene. The rabbits are the main focus of the image, and their playful interaction with each other creates a sense of liveliness and joy in the scene.
+USER: exit...

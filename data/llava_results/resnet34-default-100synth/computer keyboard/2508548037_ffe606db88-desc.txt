@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a computer setup with a desktop computer monitor, keyboard, and a mouse on a desk. The computer monitor is positioned towards the left side of the desk, while the keyboard is placed in the middle and the mouse is located on the right side. 
+
+There are several books scattered around the desk, with some placed near the left side and others on the right side. Additionally, a TV can be seen in the background, possibly for entertainment or as a secondary display.
+USER: exit...

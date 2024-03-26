@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white mannequin head with a lace headband and a white lace veil. The mannequin is wearing a white dress, which appears to be a wedding dress. The dress is draped over the mannequin, creating an elegant and sophisticated look. The scene is set on a staircase, adding a sense of elegance and formality to the overall presentation.
+USER: exit...

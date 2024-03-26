@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man standing on a bridge overlooking a body of water. He is wearing a backpack and appears to be enjoying the view. The bridge is made of metal and spans across the water.
+
+In the background, there are several boats visible, with some closer to the water's edge and others further away. The scene captures a peaceful moment as the man takes in the view of the water and the boats below.
+USER: exit...

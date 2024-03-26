@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a white and black fishing rod sticking out of the water on a beach. The rod is positioned horizontally, with the top of the rod extending above the water. The scene is set on a beach near the ocean, where the rod is likely used for fishing.
+USER: exit...

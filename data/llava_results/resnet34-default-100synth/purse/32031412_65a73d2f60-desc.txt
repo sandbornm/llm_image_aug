@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black purse with a red and white owl design on it, placed on a couch. The purse is positioned in the center of the scene, occupying a significant portion of the couch. The couch appears to be a comfortable place for the purse to rest, possibly while its owner is away.
+USER: exit...

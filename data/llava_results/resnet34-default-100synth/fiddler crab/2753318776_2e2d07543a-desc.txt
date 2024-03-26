@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small blue crab with a purple eye, sitting in a hole on a rocky ground. The crab is surrounded by a dirt and rocky environment, with a few rocks scattered around the area. The crab appears to be looking up, possibly observing its surroundings or searching for food. The scene captures the natural habitat of the crab, showcasing its adaptation to the rocky terrain.
+USER: exit...

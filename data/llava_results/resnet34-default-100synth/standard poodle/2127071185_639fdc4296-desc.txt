@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large black dog standing on top of a white table or counter. The dog appears to be looking at the camera, possibly posing for a picture. The table is located in front of a red car, which is parked in the background. Another car can be seen further back in the scene. Additionally, there is a person visible in the image, standing near the edge of the scene.
+USER: exit...

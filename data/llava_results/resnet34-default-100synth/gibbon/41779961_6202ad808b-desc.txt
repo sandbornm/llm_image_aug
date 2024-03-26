@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a black and white monkey sitting on a wooden beam in its enclosure. The monkey is positioned in the middle of the scene, with its arms and legs hanging over the beam. The enclosure is designed to resemble a tree, providing the monkey with a comfortable and natural-looking environment.
+USER: exit...

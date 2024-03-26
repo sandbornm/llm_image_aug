@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a wooden table with a variety of fish on it. There are three large fish, with one of them being a yellow fish, and two smaller fish. The fish are placed on the table, and a couple of them are positioned next to each other.
+
+In addition to the fish, there are two rods on the table, one located on the left side and the other on the right side. A knife is also present on the table, placed near the right side. The scene suggests that the fish have been recently caught and are being prepared for cooking or storage.
+USER: exit...

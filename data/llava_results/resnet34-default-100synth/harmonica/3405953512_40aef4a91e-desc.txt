@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a person standing on a street corner, wearing a hat and a jacket. They are looking up at a traffic light, possibly waiting to cross the street. The traffic light is positioned on the right side of the scene, and there are two other traffic lights visible in the background.
+
+The street corner is located in front of a blue house, which adds a vibrant touch to the scene. The person appears to be the main focus of the image, capturing the viewer's attention as they navigate the urban environment.
+USER: exit...

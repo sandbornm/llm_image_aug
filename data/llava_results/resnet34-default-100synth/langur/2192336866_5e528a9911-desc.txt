@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small monkey sitting on a tree branch, surrounded by a few leaves. The monkey appears to be looking down, possibly observing its surroundings or searching for food. The tree branch is located in the middle of the scene, with the monkey comfortably perched on it.
+USER: exit...

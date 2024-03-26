@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman standing on a stage, wearing a red and white hula skirt and a black bikini top. She is the center of attention, possibly performing a dance or participating in a contest. 
+
+There are several other people in the scene, some of whom are sitting on chairs and others standing. A potted plant is visible in the background, adding to the ambiance of the event. The overall atmosphere appears to be lively and engaging, with the woman in the hula skirt being the main focus of the scene.
+USER: exit...

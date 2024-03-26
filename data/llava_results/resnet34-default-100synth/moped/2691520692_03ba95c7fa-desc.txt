@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a man riding a red scooter down a quiet street. He is wearing a white shirt and a pair of sunglasses, which adds a stylish touch to his outfit. The street is lined with trees, providing a pleasant atmosphere for the man as he enjoys his ride.
+
+There are several cars parked along the street, with one car visible in the background, and two others closer to the foreground. Additionally, there is a bicycle parked on the side of the street, adding to the variety of transportation options in the scene.
+USER: exit...

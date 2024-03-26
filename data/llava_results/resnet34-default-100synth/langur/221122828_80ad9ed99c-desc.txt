@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large grey and brown monkey sitting on a wire fence in its enclosure. The monkey is positioned near the center of the scene, with its body facing the camera. The fence is made of metal, and the monkey appears to be comfortably perched on top of it.
+
+In the background, there are trees visible, providing a natural environment for the monkey. The scene captures the monkey's curiosity and interaction with its surroundings.
+USER: exit...

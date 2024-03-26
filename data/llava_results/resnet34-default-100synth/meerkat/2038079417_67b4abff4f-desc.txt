@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a small animal, possibly a rodent or a rabbit, standing in a dark room. The animal is looking upward, possibly towards the ceiling or a light source. The room appears to be dimly lit, creating a somewhat mysterious atmosphere. The animal's posture suggests that it is either looking up or standing on its hind legs, possibly in a defensive or curious manner.
+USER: exit...

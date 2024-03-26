@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a cozy couch with a baby crib placed on top of it. The crib is adorned with a stuffed teddy bear and a blanket, creating a comforting and inviting atmosphere for the baby. The teddy bear is positioned on the left side of the crib, while the blanket covers the right side. The couch itself is situated in the background, occupying the majority of the scene.
+USER: exit...

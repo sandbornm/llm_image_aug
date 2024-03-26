@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman wearing a blue graduation gown, standing in a room. She is posing for the camera, likely celebrating her academic achievements. The woman is the main focus of the scene, and she appears to be the only person in the image.
+
+The room has a white wall, which provides a clean and simple backdrop for the photo. The woman's gown is the main attraction, as it is a distinctive feature of the scene.
+USER: exit...

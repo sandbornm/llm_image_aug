@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a computer desk with a large computer monitor sitting on top of it. The monitor is turned on, and a woman is visible in the reflection of the screen, seemingly taking a selfie. The desk also has a keyboard and a mouse placed in front of the monitor.
+
+In addition to the computer setup, there are several potted plants placed around the desk, adding a touch of greenery to the space. There are three potted plants on the left side, one in the middle, and another on the right side of the desk. A cup can be seen on the right side of the desk, possibly for holding a beverage while working.
+USER: exit...

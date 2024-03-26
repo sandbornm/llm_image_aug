@@ -1,0 +1,3 @@
+USER: Explain with specific visual details why this image of a fiddler crab could be mistaken for a rock crab.
+USER: ASSISTANT: In the image, a fiddler crab is sitting on a sandy beach with its legs spread wide apart. It is surrounded by a mixture of sand, rocks, and seaweed. The fiddler crab's body is covered with a shell, which is a characteristic feature of crabs. However, due to the presence of rocks and seaweed in the background, the fiddler crab might be mistaken for a rock crab. The rock crab is known for its similar appearance to the fiddler crab, but it has a distinctive rock-like appearance due to its shell. The fiddler crab's shell is more elongated and curved, which makes it easier to differentiate between the two species.
+USER: exit...

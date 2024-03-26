@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of football players on a field, standing in front of a scoreboard. There are at least 13 players visible in the scene, with some of them wearing helmets. The players are positioned in various locations around the field, with some closer to the scoreboard and others further away.
+
+The scoreboard is prominently displayed in the middle of the scene, providing information about the ongoing game. The players appear to be waiting for the game to resume or discussing strategies with each other.
+USER: exit...

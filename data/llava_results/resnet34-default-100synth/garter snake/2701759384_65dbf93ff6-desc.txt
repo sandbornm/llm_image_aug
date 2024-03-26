@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a box filled with a large, long, and curled snake. The snake is lying on its side, occupying a significant portion of the box. The box is open, allowing the viewer to see the snake clearly. The snake appears to be in a relaxed state, possibly resting or preparing to move.
+USER: exit...

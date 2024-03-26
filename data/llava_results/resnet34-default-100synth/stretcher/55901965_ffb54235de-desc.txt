@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a group of four young people standing in a grassy field at night. They are posing for a picture, with one person in the center appearing to be in a playful position. The group consists of three men and one woman, all dressed in casual attire.
+
+In the background, there is a car parked, and a chair can be seen placed nearby. The scene captures the essence of a fun and relaxed gathering among friends.
+USER: exit...

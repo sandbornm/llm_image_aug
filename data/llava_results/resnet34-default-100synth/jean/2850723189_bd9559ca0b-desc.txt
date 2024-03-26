@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a bedroom scene with a bed in the center of the room. A pair of blue jeans is placed on the edge of the bed, resting on the pillow. The room also contains a chair located near the left side of the bed.
+
+In the background, there is a dining table with a couple of chairs around it. A person can be seen standing near the dining table, possibly preparing a meal or engaging in some other activity. The room also has a couch situated near the left side of the bed, providing additional seating options.
+USER: exit...

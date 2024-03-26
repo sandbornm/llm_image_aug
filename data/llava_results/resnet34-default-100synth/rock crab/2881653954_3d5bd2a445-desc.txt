@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a rocky shoreline with a large rock in the foreground. On top of this rock, there is a crab sitting, seemingly enjoying the view. The crab is positioned towards the left side of the rock, occupying a significant portion of the rock's surface. The scene captures the beauty of the natural environment and the crab's presence in its habitat.
+USER: exit...

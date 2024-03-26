@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a dead crab lying on its back on a sandy beach. The crab is positioned in the center of the scene, with its legs and claws visible. The beach appears to be a mix of sand and small rocks, with a few rocks scattered around the area. The overall scene gives a sense of a peaceful and natural setting.
+USER: exit...

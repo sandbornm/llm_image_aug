@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a cute white rabbit standing in a lush green field, holding a piece of grass in its mouth. The rabbit appears to be enjoying its meal, surrounded by the vibrant green grass. The scene captures the rabbit's natural behavior and the beauty of the outdoor environment.
+USER: exit...

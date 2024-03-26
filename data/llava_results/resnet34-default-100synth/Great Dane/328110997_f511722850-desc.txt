@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a large brown dog lying on the floor, with a small white and brown rabbit sitting on top of it. The dog appears to be relaxed and comfortable, while the rabbit is perched on its back. The scene takes place in a room with a dining table visible in the background.
+
+There are also two chairs in the room, one located near the table and the other further away. Additionally, a person can be seen in the background, possibly observing the interaction between the dog and the rabbit.
+USER: exit...

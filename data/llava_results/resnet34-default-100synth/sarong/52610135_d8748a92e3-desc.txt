@@ -1,0 +1,3 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image features a woman standing on a beach, holding a pink umbrella above her head. She is wearing a black top and a skirt, and her pregnant belly is visible. The umbrella provides shade for the expectant mother, who is enjoying her time at the beach. The scene captures the beauty of the beach and the woman's anticipation of the arrival of her newborn.
+USER: exit...

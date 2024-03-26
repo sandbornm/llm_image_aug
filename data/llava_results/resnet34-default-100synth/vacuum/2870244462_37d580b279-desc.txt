@@ -1,0 +1,5 @@
+USER: Analyze the image in a comprehensive and detailed manner.
+USER: ASSISTANT: The image depicts a person standing in a living room, holding a vacuum cleaner. The person is wearing blue jeans and is in the process of cleaning the floor. The vacuum cleaner is positioned near the center of the room, and the person is standing close to it.
+
+In the room, there is a chair located towards the right side, and a handbag can be seen placed on the left side. The living room appears to be well-organized and clean, with the person diligently taking care of the space.
+USER: exit...
